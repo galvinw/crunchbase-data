@@ -4,6 +4,7 @@ http://info.crunchbase.com/about/crunchbase-data-exports/
 By using this data, you agree to follow the CrunchBase Terms of Service and Licensing Policy.
 
 http://info.crunchbase.com/docs/terms-of-service/
+
 http://info.crunchbase.com/docs/privacy-policy/
 
 Included in this repository are CSV exports of the individual worksheets from the Crunchbase Data Export [crunchbase_monthly_export.xlsx][1] using Microsoft Excel 2010.  I did this because some versions of Excel for Mac and Apple iWork Numbers were not properly able to work with this xlsx file. CSVs are much better format for raw data exports anyways.
