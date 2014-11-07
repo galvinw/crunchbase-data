@@ -1,4 +1,4 @@
-This data was extracted from CrunchBase on July 7, 2014.  Read more at:
+This data was extracted from CrunchBase on October 2014.  Read more at:
 http://info.crunchbase.com/about/crunchbase-data-exports/
 
 By using this data, you agree to follow the CrunchBase Terms of Service and Licensing Policy.
