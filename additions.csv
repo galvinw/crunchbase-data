@@ -1,1354 +1,1910 @@
-content,month_str,quarter_str,year_str,value
-Profiles: Organizations,2007-05,2007-Q2,2007,14
-Profiles: Organizations,2007-06,2007-Q2,2007,96
-Profiles: Organizations,2007-07,2007-Q3,2007,259
-Profiles: Organizations,2007-08,2007-Q3,2007,522
-Profiles: Organizations,2007-09,2007-Q3,2007,219
-Profiles: Organizations,2007-10,2007-Q4,2007,152
-Profiles: Organizations,2007-11,2007-Q4,2007,314
-Profiles: Organizations,2007-12,2007-Q4,2007,231
-Profiles: Organizations,2008-01,2008-Q1,2008,237
-Profiles: Organizations,2008-02,2008-Q1,2008,711
-Profiles: Organizations,2008-03,2008-Q1,2008,830
-Profiles: Organizations,2008-04,2008-Q2,2008,800
-Profiles: Organizations,2008-05,2008-Q2,2008,979
-Profiles: Organizations,2008-06,2008-Q2,2008,1195
-Profiles: Organizations,2008-07,2008-Q3,2008,1150
-Profiles: Organizations,2008-08,2008-Q3,2008,1010
-Profiles: Organizations,2008-09,2008-Q3,2008,995
-Profiles: Organizations,2008-10,2008-Q4,2008,1073
-Profiles: Organizations,2008-11,2008-Q4,2008,1125
-Profiles: Organizations,2008-12,2008-Q4,2008,1440
-Profiles: Organizations,2009-01,2009-Q1,2009,1711
-Profiles: Organizations,2009-02,2009-Q1,2009,884
-Profiles: Organizations,2009-03,2009-Q1,2009,996
-Profiles: Organizations,2009-04,2009-Q2,2009,1231
-Profiles: Organizations,2009-05,2009-Q2,2009,1318
-Profiles: Organizations,2009-06,2009-Q2,2009,2243
-Profiles: Organizations,2009-07,2009-Q3,2009,2285
-Profiles: Organizations,2009-08,2009-Q3,2009,1896
-Profiles: Organizations,2009-09,2009-Q3,2009,1803
-Profiles: Organizations,2009-10,2009-Q4,2009,1371
-Profiles: Organizations,2009-11,2009-Q4,2009,1508
-Profiles: Organizations,2009-12,2009-Q4,2009,1998
-Profiles: Organizations,2010-01,2010-Q1,2010,2064
-Profiles: Organizations,2010-02,2010-Q1,2010,1631
-Profiles: Organizations,2010-03,2010-Q1,2010,2134
-Profiles: Organizations,2010-04,2010-Q2,2010,2010
-Profiles: Organizations,2010-05,2010-Q2,2010,1819
-Profiles: Organizations,2010-06,2010-Q2,2010,1681
-Profiles: Organizations,2010-07,2010-Q3,2010,2359
-Profiles: Organizations,2010-08,2010-Q3,2010,2210
-Profiles: Organizations,2010-09,2010-Q3,2010,2092
-Profiles: Organizations,2010-10,2010-Q4,2010,2609
-Profiles: Organizations,2010-11,2010-Q4,2010,2199
-Profiles: Organizations,2010-12,2010-Q4,2010,2123
-Profiles: Organizations,2011-01,2011-Q1,2011,2092
-Profiles: Organizations,2011-02,2011-Q1,2011,2151
-Profiles: Organizations,2011-03,2011-Q1,2011,2082
-Profiles: Organizations,2011-04,2011-Q2,2011,1842
-Profiles: Organizations,2011-05,2011-Q2,2011,1946
-Profiles: Organizations,2011-06,2011-Q2,2011,2162
-Profiles: Organizations,2011-07,2011-Q3,2011,2273
-Profiles: Organizations,2011-08,2011-Q3,2011,2001
-Profiles: Organizations,2011-09,2011-Q3,2011,1807
-Profiles: Organizations,2011-10,2011-Q4,2011,1861
-Profiles: Organizations,2011-11,2011-Q4,2011,1727
-Profiles: Organizations,2011-12,2011-Q4,2011,1647
-Profiles: Organizations,2012-01,2012-Q1,2012,1581
-Profiles: Organizations,2012-02,2012-Q1,2012,1517
-Profiles: Organizations,2012-03,2012-Q1,2012,2077
-Profiles: Organizations,2012-04,2012-Q2,2012,2092
-Profiles: Organizations,2012-05,2012-Q2,2012,2259
-Profiles: Organizations,2012-06,2012-Q2,2012,2241
-Profiles: Organizations,2012-07,2012-Q3,2012,2321
-Profiles: Organizations,2012-08,2012-Q3,2012,2463
-Profiles: Organizations,2012-09,2012-Q3,2012,2369
-Profiles: Organizations,2012-10,2012-Q4,2012,2692
-Profiles: Organizations,2012-11,2012-Q4,2012,2471
-Profiles: Organizations,2012-12,2012-Q4,2012,2838
-Profiles: Organizations,2013-01,2013-Q1,2013,2901
-Profiles: Organizations,2013-02,2013-Q1,2013,2982
-Profiles: Organizations,2013-03,2013-Q1,2013,3105
-Profiles: Organizations,2013-04,2013-Q2,2013,8229
-Profiles: Organizations,2013-05,2013-Q2,2013,13334
-Profiles: Organizations,2013-06,2013-Q2,2013,12104
-Profiles: Organizations,2013-07,2013-Q3,2013,9417
-Profiles: Organizations,2013-08,2013-Q3,2013,15686
-Profiles: Organizations,2013-09,2013-Q3,2013,7327
-Profiles: Organizations,2013-10,2013-Q4,2013,6369
-Profiles: Organizations,2013-11,2013-Q4,2013,6643
-Profiles: Organizations,2013-12,2013-Q4,2013,8049
-Profiles: Organizations,2014-01,2014-Q1,2014,8992
-Profiles: Organizations,2014-02,2014-Q1,2014,8137
-Profiles: Organizations,2014-03,2014-Q1,2014,8750
-Profiles: Organizations,2014-04,2014-Q2,2014,17564
-Profiles: Organizations,2014-05,2014-Q2,2014,6447
-Profiles: Organizations,2014-06,2014-Q2,2014,7767
-Profiles: Organizations,2014-07,2014-Q3,2014,9893
-Profiles: Organizations,2014-08,2014-Q3,2014,8031
-Profiles: Organizations,2014-09,2014-Q3,2014,9533
-Profiles: Organizations,2014-10,2014-Q4,2014,2150
-Profiles: People,2007-05,2007-Q2,2007,27
-Profiles: People,2007-06,2007-Q2,2007,159
-Profiles: People,2007-07,2007-Q3,2007,616
-Profiles: People,2007-08,2007-Q3,2007,802
-Profiles: People,2007-09,2007-Q3,2007,223
-Profiles: People,2007-10,2007-Q4,2007,280
-Profiles: People,2007-11,2007-Q4,2007,475
-Profiles: People,2007-12,2007-Q4,2007,622
-Profiles: People,2008-01,2008-Q1,2008,461
-Profiles: People,2008-02,2008-Q1,2008,1824
-Profiles: People,2008-03,2008-Q1,2008,1523
-Profiles: People,2008-04,2008-Q2,2008,1191
-Profiles: People,2008-05,2008-Q2,2008,1726
-Profiles: People,2008-06,2008-Q2,2008,1802
-Profiles: People,2008-07,2008-Q3,2008,1516
-Profiles: People,2008-08,2008-Q3,2008,1347
-Profiles: People,2008-09,2008-Q3,2008,1230
-Profiles: People,2008-10,2008-Q4,2008,1270
-Profiles: People,2008-11,2008-Q4,2008,2682
-Profiles: People,2008-12,2008-Q4,2008,2171
-Profiles: People,2009-01,2009-Q1,2009,1749
-Profiles: People,2009-02,2009-Q1,2009,1192
-Profiles: People,2009-03,2009-Q1,2009,1359
-Profiles: People,2009-04,2009-Q2,2009,1395
-Profiles: People,2009-05,2009-Q2,2009,1647
-Profiles: People,2009-06,2009-Q2,2009,2698
-Profiles: People,2009-07,2009-Q3,2009,1609
-Profiles: People,2009-08,2009-Q3,2009,1682
-Profiles: People,2009-09,2009-Q3,2009,1740
-Profiles: People,2009-10,2009-Q4,2009,1661
-Profiles: People,2009-11,2009-Q4,2009,1637
-Profiles: People,2009-12,2009-Q4,2009,2411
-Profiles: People,2010-01,2010-Q1,2010,2175
-Profiles: People,2010-02,2010-Q1,2010,1731
-Profiles: People,2010-03,2010-Q1,2010,1967
-Profiles: People,2010-04,2010-Q2,2010,1675
-Profiles: People,2010-05,2010-Q2,2010,1951
-Profiles: People,2010-06,2010-Q2,2010,1834
-Profiles: People,2010-07,2010-Q3,2010,2112
-Profiles: People,2010-08,2010-Q3,2010,2764
-Profiles: People,2010-09,2010-Q3,2010,2358
-Profiles: People,2010-10,2010-Q4,2010,2640
-Profiles: People,2010-11,2010-Q4,2010,2272
-Profiles: People,2010-12,2010-Q4,2010,2062
-Profiles: People,2011-01,2011-Q1,2011,2458
-Profiles: People,2011-02,2011-Q1,2011,2553
-Profiles: People,2011-03,2011-Q1,2011,2728
-Profiles: People,2011-04,2011-Q2,2011,2391
-Profiles: People,2011-05,2011-Q2,2011,2531
-Profiles: People,2011-06,2011-Q2,2011,2793
-Profiles: People,2011-07,2011-Q3,2011,3071
-Profiles: People,2011-08,2011-Q3,2011,2844
-Profiles: People,2011-09,2011-Q3,2011,2528
-Profiles: People,2011-10,2011-Q4,2011,2408
-Profiles: People,2011-11,2011-Q4,2011,2331
-Profiles: People,2011-12,2011-Q4,2011,2080
-Profiles: People,2012-01,2012-Q1,2012,2080
-Profiles: People,2012-02,2012-Q1,2012,2164
-Profiles: People,2012-03,2012-Q1,2012,2830
-Profiles: People,2012-04,2012-Q2,2012,2850
-Profiles: People,2012-05,2012-Q2,2012,3004
-Profiles: People,2012-06,2012-Q2,2012,2777
-Profiles: People,2012-07,2012-Q3,2012,3512
-Profiles: People,2012-08,2012-Q3,2012,3070
-Profiles: People,2012-09,2012-Q3,2012,2618
-Profiles: People,2012-10,2012-Q4,2012,2778
-Profiles: People,2012-11,2012-Q4,2012,2874
-Profiles: People,2012-12,2012-Q4,2012,2518
-Profiles: People,2013-01,2013-Q1,2013,3308
-Profiles: People,2013-02,2013-Q1,2013,3613
-Profiles: People,2013-03,2013-Q1,2013,3730
-Profiles: People,2013-04,2013-Q2,2013,5079
-Profiles: People,2013-05,2013-Q2,2013,7580
-Profiles: People,2013-06,2013-Q2,2013,7410
-Profiles: People,2013-07,2013-Q3,2013,9245
-Profiles: People,2013-08,2013-Q3,2013,12446
-Profiles: People,2013-09,2013-Q3,2013,10844
-Profiles: People,2013-10,2013-Q4,2013,10874
-Profiles: People,2013-11,2013-Q4,2013,10301
-Profiles: People,2013-12,2013-Q4,2013,10867
-Profiles: People,2014-01,2014-Q1,2014,11205
-Profiles: People,2014-02,2014-Q1,2014,11951
-Profiles: People,2014-03,2014-Q1,2014,12597
-Profiles: People,2014-04,2014-Q2,2014,7792
-Profiles: People,2014-05,2014-Q2,2014,5296
-Profiles: People,2014-06,2014-Q2,2014,8556
-Profiles: People,2014-07,2014-Q3,2014,7546
-Profiles: People,2014-08,2014-Q3,2014,9500
-Profiles: People,2014-09,2014-Q3,2014,8678
-Profiles: People,2014-10,2014-Q4,2014,1495
-Profiles: Products,2007-05,2007-Q2,2007,2
-Profiles: Products,2007-06,2007-Q2,2007,42
-Profiles: Products,2007-07,2007-Q3,2007,158
-Profiles: Products,2007-08,2007-Q3,2007,177
-Profiles: Products,2007-09,2007-Q3,2007,46
-Profiles: Products,2007-10,2007-Q4,2007,65
-Profiles: Products,2007-11,2007-Q4,2007,101
-Profiles: Products,2007-12,2007-Q4,2007,127
-Profiles: Products,2008-01,2008-Q1,2008,112
-Profiles: Products,2008-02,2008-Q1,2008,454
-Profiles: Products,2008-03,2008-Q1,2008,296
-Profiles: Products,2008-04,2008-Q2,2008,196
-Profiles: Products,2008-05,2008-Q2,2008,408
-Profiles: Products,2008-06,2008-Q2,2008,297
-Profiles: Products,2008-07,2008-Q3,2008,353
-Profiles: Products,2008-08,2008-Q3,2008,194
-Profiles: Products,2008-09,2008-Q3,2008,139
-Profiles: Products,2008-10,2008-Q4,2008,714
-Profiles: Products,2008-11,2008-Q4,2008,653
-Profiles: Products,2008-12,2008-Q4,2008,893
-Profiles: Products,2009-01,2009-Q1,2009,719
-Profiles: Products,2009-02,2009-Q1,2009,598
-Profiles: Products,2009-03,2009-Q1,2009,596
-Profiles: Products,2009-04,2009-Q2,2009,501
-Profiles: Products,2009-05,2009-Q2,2009,477
-Profiles: Products,2009-06,2009-Q2,2009,847
-Profiles: Products,2009-07,2009-Q3,2009,404
-Profiles: Products,2009-08,2009-Q3,2009,148
-Profiles: Products,2009-09,2009-Q3,2009,117
-Profiles: Products,2009-10,2009-Q4,2009,204
-Profiles: Products,2009-11,2009-Q4,2009,163
-Profiles: Products,2009-12,2009-Q4,2009,188
-Profiles: Products,2010-01,2010-Q1,2010,176
-Profiles: Products,2010-02,2010-Q1,2010,143
-Profiles: Products,2010-03,2010-Q1,2010,271
-Profiles: Products,2010-04,2010-Q2,2010,226
-Profiles: Products,2010-05,2010-Q2,2010,183
-Profiles: Products,2010-06,2010-Q2,2010,185
-Profiles: Products,2010-07,2010-Q3,2010,229
-Profiles: Products,2010-08,2010-Q3,2010,293
-Profiles: Products,2010-09,2010-Q3,2010,200
-Profiles: Products,2010-10,2010-Q4,2010,391
-Profiles: Products,2010-11,2010-Q4,2010,209
-Profiles: Products,2010-12,2010-Q4,2010,344
-Profiles: Products,2011-01,2011-Q1,2011,235
-Profiles: Products,2011-02,2011-Q1,2011,309
-Profiles: Products,2011-03,2011-Q1,2011,247
-Profiles: Products,2011-04,2011-Q2,2011,241
-Profiles: Products,2011-05,2011-Q2,2011,366
-Profiles: Products,2011-06,2011-Q2,2011,382
-Profiles: Products,2011-07,2011-Q3,2011,329
-Profiles: Products,2011-08,2011-Q3,2011,217
-Profiles: Products,2011-09,2011-Q3,2011,236
-Profiles: Products,2011-10,2011-Q4,2011,215
-Profiles: Products,2011-11,2011-Q4,2011,231
-Profiles: Products,2011-12,2011-Q4,2011,247
-Profiles: Products,2012-01,2012-Q1,2012,286
-Profiles: Products,2012-02,2012-Q1,2012,279
-Profiles: Products,2012-03,2012-Q1,2012,303
-Profiles: Products,2012-04,2012-Q2,2012,365
-Profiles: Products,2012-05,2012-Q2,2012,415
-Profiles: Products,2012-06,2012-Q2,2012,326
-Profiles: Products,2012-07,2012-Q3,2012,575
-Profiles: Products,2012-08,2012-Q3,2012,401
-Profiles: Products,2012-09,2012-Q3,2012,253
-Profiles: Products,2012-10,2012-Q4,2012,290
-Profiles: Products,2012-11,2012-Q4,2012,313
-Profiles: Products,2012-12,2012-Q4,2012,385
-Profiles: Products,2013-01,2013-Q1,2013,381
-Profiles: Products,2013-02,2013-Q1,2013,295
-Profiles: Products,2013-03,2013-Q1,2013,593
-Profiles: Products,2013-04,2013-Q2,2013,500
-Profiles: Products,2013-05,2013-Q2,2013,495
-Profiles: Products,2013-06,2013-Q2,2013,613
-Profiles: Products,2013-07,2013-Q3,2013,636
-Profiles: Products,2013-08,2013-Q3,2013,633
-Profiles: Products,2013-09,2013-Q3,2013,499
-Profiles: Products,2013-10,2013-Q4,2013,631
-Profiles: Products,2013-11,2013-Q4,2013,495
-Profiles: Products,2013-12,2013-Q4,2013,597
-Profiles: Products,2014-01,2014-Q1,2014,687
-Profiles: Products,2014-02,2014-Q1,2014,724
-Profiles: Products,2014-03,2014-Q1,2014,639
-Profiles: Products,2014-04,2014-Q2,2014,753
-Profiles: Products,2014-05,2014-Q2,2014,1226
-Profiles: Products,2014-06,2014-Q2,2014,2169
-Profiles: Products,2014-07,2014-Q3,2014,1921
-Profiles: Products,2014-08,2014-Q3,2014,1842
-Profiles: Products,2014-09,2014-Q3,2014,1772
-Profiles: Products,2014-10,2014-Q4,2014,358
-Profiles,2007-05,2007-Q2,2007,43
-Profiles,2007-06,2007-Q2,2007,297
-Profiles,2007-07,2007-Q3,2007,1033
-Profiles,2007-08,2007-Q3,2007,1501
-Profiles,2007-09,2007-Q3,2007,488
-Profiles,2007-10,2007-Q4,2007,497
-Profiles,2007-11,2007-Q4,2007,890
-Profiles,2007-12,2007-Q4,2007,980
-Profiles,2008-01,2008-Q1,2008,810
-Profiles,2008-02,2008-Q1,2008,2989
-Profiles,2008-03,2008-Q1,2008,2649
-Profiles,2008-04,2008-Q2,2008,2187
-Profiles,2008-05,2008-Q2,2008,3113
-Profiles,2008-06,2008-Q2,2008,3294
-Profiles,2008-07,2008-Q3,2008,3019
-Profiles,2008-08,2008-Q3,2008,2551
-Profiles,2008-09,2008-Q3,2008,2364
-Profiles,2008-10,2008-Q4,2008,3057
-Profiles,2008-11,2008-Q4,2008,4460
-Profiles,2008-12,2008-Q4,2008,4504
-Profiles,2009-01,2009-Q1,2009,4179
-Profiles,2009-02,2009-Q1,2009,2674
-Profiles,2009-03,2009-Q1,2009,2951
-Profiles,2009-04,2009-Q2,2009,3127
-Profiles,2009-05,2009-Q2,2009,3442
-Profiles,2009-06,2009-Q2,2009,5788
-Profiles,2009-07,2009-Q3,2009,4298
-Profiles,2009-08,2009-Q3,2009,3726
-Profiles,2009-09,2009-Q3,2009,3660
-Profiles,2009-10,2009-Q4,2009,3236
-Profiles,2009-11,2009-Q4,2009,3308
-Profiles,2009-12,2009-Q4,2009,4597
-Profiles,2010-01,2010-Q1,2010,4415
-Profiles,2010-02,2010-Q1,2010,3505
-Profiles,2010-03,2010-Q1,2010,4372
-Profiles,2010-04,2010-Q2,2010,3911
-Profiles,2010-05,2010-Q2,2010,3953
-Profiles,2010-06,2010-Q2,2010,3700
-Profiles,2010-07,2010-Q3,2010,4700
-Profiles,2010-08,2010-Q3,2010,5267
-Profiles,2010-09,2010-Q3,2010,4650
-Profiles,2010-10,2010-Q4,2010,5640
-Profiles,2010-11,2010-Q4,2010,4680
-Profiles,2010-12,2010-Q4,2010,4529
-Profiles,2011-01,2011-Q1,2011,4785
-Profiles,2011-02,2011-Q1,2011,5013
-Profiles,2011-03,2011-Q1,2011,5057
-Profiles,2011-04,2011-Q2,2011,4474
-Profiles,2011-05,2011-Q2,2011,4843
-Profiles,2011-06,2011-Q2,2011,5337
-Profiles,2011-07,2011-Q3,2011,5673
-Profiles,2011-08,2011-Q3,2011,5062
-Profiles,2011-09,2011-Q3,2011,4571
-Profiles,2011-10,2011-Q4,2011,4484
-Profiles,2011-11,2011-Q4,2011,4289
-Profiles,2011-12,2011-Q4,2011,3974
-Profiles,2012-01,2012-Q1,2012,3947
-Profiles,2012-02,2012-Q1,2012,3960
-Profiles,2012-03,2012-Q1,2012,5210
-Profiles,2012-04,2012-Q2,2012,5307
-Profiles,2012-05,2012-Q2,2012,5678
-Profiles,2012-06,2012-Q2,2012,5344
-Profiles,2012-07,2012-Q3,2012,6408
-Profiles,2012-08,2012-Q3,2012,5934
-Profiles,2012-09,2012-Q3,2012,5240
-Profiles,2012-10,2012-Q4,2012,5760
-Profiles,2012-11,2012-Q4,2012,5658
-Profiles,2012-12,2012-Q4,2012,5741
-Profiles,2013-01,2013-Q1,2013,6590
-Profiles,2013-02,2013-Q1,2013,6890
-Profiles,2013-03,2013-Q1,2013,7428
-Profiles,2013-04,2013-Q2,2013,13808
-Profiles,2013-05,2013-Q2,2013,21409
-Profiles,2013-06,2013-Q2,2013,20127
-Profiles,2013-07,2013-Q3,2013,19298
-Profiles,2013-08,2013-Q3,2013,28765
-Profiles,2013-09,2013-Q3,2013,18670
-Profiles,2013-10,2013-Q4,2013,17874
-Profiles,2013-11,2013-Q4,2013,17439
-Profiles,2013-12,2013-Q4,2013,19513
-Profiles,2014-01,2014-Q1,2014,20884
-Profiles,2014-02,2014-Q1,2014,20812
-Profiles,2014-03,2014-Q1,2014,21986
-Profiles,2014-04,2014-Q2,2014,26109
-Profiles,2014-05,2014-Q2,2014,12969
-Profiles,2014-06,2014-Q2,2014,18492
-Profiles,2014-07,2014-Q3,2014,19360
-Profiles,2014-08,2014-Q3,2014,19373
-Profiles,2014-09,2014-Q3,2014,19983
-Profiles,2014-10,2014-Q4,2014,4003
-Rounds: angel,2007-05,2007-Q2,2007,1
-Rounds: angel,2007-06,2007-Q2,2007,2
-Rounds: angel,2007-07,2007-Q3,2007,12
-Rounds: angel,2007-08,2007-Q3,2007,20
-Rounds: angel,2007-09,2007-Q3,2007,12
-Rounds: angel,2007-10,2007-Q4,2007,7
-Rounds: angel,2007-11,2007-Q4,2007,25
-Rounds: angel,2007-12,2007-Q4,2007,11
-Rounds: angel,2008-01,2008-Q1,2008,13
-Rounds: angel,2008-02,2008-Q1,2008,77
-Rounds: angel,2008-03,2008-Q1,2008,34
-Rounds: angel,2008-04,2008-Q2,2008,31
-Rounds: angel,2008-05,2008-Q2,2008,33
-Rounds: angel,2008-06,2008-Q2,2008,46
-Rounds: angel,2008-07,2008-Q3,2008,27
-Rounds: angel,2008-08,2008-Q3,2008,25
-Rounds: angel,2008-09,2008-Q3,2008,27
-Rounds: angel,2008-10,2008-Q4,2008,26
-Rounds: angel,2008-11,2008-Q4,2008,29
-Rounds: angel,2008-12,2008-Q4,2008,35
-Rounds: angel,2009-01,2009-Q1,2009,35
-Rounds: angel,2009-02,2009-Q1,2009,19
-Rounds: angel,2009-03,2009-Q1,2009,16
-Rounds: angel,2009-04,2009-Q2,2009,20
-Rounds: angel,2009-05,2009-Q2,2009,14
-Rounds: angel,2009-06,2009-Q2,2009,26
-Rounds: angel,2009-07,2009-Q3,2009,20
-Rounds: angel,2009-08,2009-Q3,2009,32
-Rounds: angel,2009-09,2009-Q3,2009,34
-Rounds: angel,2009-10,2009-Q4,2009,22
-Rounds: angel,2009-11,2009-Q4,2009,23
-Rounds: angel,2009-12,2009-Q4,2009,29
-Rounds: angel,2010-01,2010-Q1,2010,29
-Rounds: angel,2010-02,2010-Q1,2010,20
-Rounds: angel,2010-03,2010-Q1,2010,35
-Rounds: angel,2010-04,2010-Q2,2010,26
-Rounds: angel,2010-05,2010-Q2,2010,25
-Rounds: angel,2010-06,2010-Q2,2010,31
-Rounds: angel,2010-07,2010-Q3,2010,26
-Rounds: angel,2010-08,2010-Q3,2010,25
-Rounds: angel,2010-09,2010-Q3,2010,34
-Rounds: angel,2010-10,2010-Q4,2010,48
-Rounds: angel,2010-11,2010-Q4,2010,40
-Rounds: angel,2010-12,2010-Q4,2010,26
-Rounds: angel,2011-01,2011-Q1,2011,39
-Rounds: angel,2011-02,2011-Q1,2011,34
-Rounds: angel,2011-03,2011-Q1,2011,38
-Rounds: angel,2011-04,2011-Q2,2011,49
-Rounds: angel,2011-05,2011-Q2,2011,51
-Rounds: angel,2011-06,2011-Q2,2011,42
-Rounds: angel,2011-07,2011-Q3,2011,56
-Rounds: angel,2011-08,2011-Q3,2011,48
-Rounds: angel,2011-09,2011-Q3,2011,51
-Rounds: angel,2011-10,2011-Q4,2011,34
-Rounds: angel,2011-11,2011-Q4,2011,49
-Rounds: angel,2011-12,2011-Q4,2011,29
-Rounds: angel,2012-01,2012-Q1,2012,53
-Rounds: angel,2012-02,2012-Q1,2012,38
-Rounds: angel,2012-03,2012-Q1,2012,37
-Rounds: angel,2012-04,2012-Q2,2012,45
-Rounds: angel,2012-05,2012-Q2,2012,46
-Rounds: angel,2012-06,2012-Q2,2012,72
-Rounds: angel,2012-07,2012-Q3,2012,51
-Rounds: angel,2012-08,2012-Q3,2012,63
-Rounds: angel,2012-09,2012-Q3,2012,42
-Rounds: angel,2012-10,2012-Q4,2012,48
-Rounds: angel,2012-11,2012-Q4,2012,49
-Rounds: angel,2012-12,2012-Q4,2012,30
-Rounds: angel,2013-01,2013-Q1,2013,46
-Rounds: angel,2013-02,2013-Q1,2013,56
-Rounds: angel,2013-03,2013-Q1,2013,58
-Rounds: angel,2013-04,2013-Q2,2013,71
-Rounds: angel,2013-05,2013-Q2,2013,65
-Rounds: angel,2013-06,2013-Q2,2013,80
-Rounds: angel,2013-07,2013-Q3,2013,87
-Rounds: angel,2013-08,2013-Q3,2013,69
-Rounds: angel,2013-09,2013-Q3,2013,71
-Rounds: angel,2013-10,2013-Q4,2013,78
-Rounds: angel,2013-11,2013-Q4,2013,105
-Rounds: angel,2013-12,2013-Q4,2013,67
-Rounds: angel,2014-01,2014-Q1,2014,117
-Rounds: angel,2014-02,2014-Q1,2014,106
-Rounds: angel,2014-03,2014-Q1,2014,133
-Rounds: angel,2014-04,2014-Q2,2014,93
-Rounds: angel,2014-05,2014-Q2,2014,110
-Rounds: angel,2014-06,2014-Q2,2014,142
-Rounds: angel,2014-07,2014-Q3,2014,193
-Rounds: angel,2014-08,2014-Q3,2014,116
-Rounds: angel,2014-09,2014-Q3,2014,122
-Rounds: angel,2014-10,2014-Q4,2014,26
-Rounds: convertible_note,2009-12,2009-Q4,2009,3
-Rounds: convertible_note,2010-02,2010-Q1,2010,1
-Rounds: convertible_note,2010-03,2010-Q1,2010,1
-Rounds: convertible_note,2010-11,2010-Q4,2010,1
-Rounds: convertible_note,2011-05,2011-Q2,2011,1
-Rounds: convertible_note,2011-06,2011-Q2,2011,1
-Rounds: convertible_note,2011-07,2011-Q3,2011,1
-Rounds: convertible_note,2012-04,2012-Q2,2012,1
-Rounds: convertible_note,2012-05,2012-Q2,2012,2
-Rounds: convertible_note,2012-07,2012-Q3,2012,2
-Rounds: convertible_note,2012-10,2012-Q4,2012,2
-Rounds: convertible_note,2012-11,2012-Q4,2012,1
-Rounds: convertible_note,2012-12,2012-Q4,2012,1
-Rounds: convertible_note,2013-01,2013-Q1,2013,2
-Rounds: convertible_note,2013-03,2013-Q1,2013,5
-Rounds: convertible_note,2013-05,2013-Q2,2013,5
-Rounds: convertible_note,2013-06,2013-Q2,2013,6
-Rounds: convertible_note,2013-07,2013-Q3,2013,24
-Rounds: convertible_note,2013-08,2013-Q3,2013,36
-Rounds: convertible_note,2013-09,2013-Q3,2013,29
-Rounds: convertible_note,2013-10,2013-Q4,2013,18
-Rounds: convertible_note,2013-11,2013-Q4,2013,45
-Rounds: convertible_note,2013-12,2013-Q4,2013,26
-Rounds: convertible_note,2014-01,2014-Q1,2014,42
-Rounds: convertible_note,2014-02,2014-Q1,2014,52
-Rounds: convertible_note,2014-03,2014-Q1,2014,41
-Rounds: convertible_note,2014-04,2014-Q2,2014,18
-Rounds: convertible_note,2014-05,2014-Q2,2014,34
-Rounds: convertible_note,2014-06,2014-Q2,2014,32
-Rounds: convertible_note,2014-07,2014-Q3,2014,120
-Rounds: convertible_note,2014-08,2014-Q3,2014,33
-Rounds: convertible_note,2014-09,2014-Q3,2014,70
-Rounds: convertible_note,2014-10,2014-Q4,2014,9
-Rounds: debt_financing,2007-07,2007-Q3,2007,1
-Rounds: debt_financing,2007-08,2007-Q3,2007,2
-Rounds: debt_financing,2007-10,2007-Q4,2007,3
-Rounds: debt_financing,2007-11,2007-Q4,2007,2
-Rounds: debt_financing,2007-12,2007-Q4,2007,2
-Rounds: debt_financing,2008-01,2008-Q1,2008,3
-Rounds: debt_financing,2008-02,2008-Q1,2008,3
-Rounds: debt_financing,2008-04,2008-Q2,2008,1
-Rounds: debt_financing,2008-05,2008-Q2,2008,8
-Rounds: debt_financing,2008-06,2008-Q2,2008,3
-Rounds: debt_financing,2008-07,2008-Q3,2008,7
-Rounds: debt_financing,2008-08,2008-Q3,2008,7
-Rounds: debt_financing,2008-09,2008-Q3,2008,1
-Rounds: debt_financing,2008-10,2008-Q4,2008,2
-Rounds: debt_financing,2008-11,2008-Q4,2008,6
-Rounds: debt_financing,2008-12,2008-Q4,2008,5
-Rounds: debt_financing,2009-01,2009-Q1,2009,10
-Rounds: debt_financing,2009-02,2009-Q1,2009,3
-Rounds: debt_financing,2009-03,2009-Q1,2009,4
-Rounds: debt_financing,2009-04,2009-Q2,2009,8
-Rounds: debt_financing,2009-05,2009-Q2,2009,6
-Rounds: debt_financing,2009-06,2009-Q2,2009,11
-Rounds: debt_financing,2009-07,2009-Q3,2009,10
-Rounds: debt_financing,2009-08,2009-Q3,2009,7
-Rounds: debt_financing,2009-09,2009-Q3,2009,15
-Rounds: debt_financing,2009-10,2009-Q4,2009,6
-Rounds: debt_financing,2009-11,2009-Q4,2009,24
-Rounds: debt_financing,2009-12,2009-Q4,2009,66
-Rounds: debt_financing,2010-01,2010-Q1,2010,58
-Rounds: debt_financing,2010-02,2010-Q1,2010,31
-Rounds: debt_financing,2010-03,2010-Q1,2010,48
-Rounds: debt_financing,2010-04,2010-Q2,2010,39
-Rounds: debt_financing,2010-05,2010-Q2,2010,17
-Rounds: debt_financing,2010-06,2010-Q2,2010,15
-Rounds: debt_financing,2010-07,2010-Q3,2010,10
-Rounds: debt_financing,2010-08,2010-Q3,2010,9
-Rounds: debt_financing,2010-09,2010-Q3,2010,13
-Rounds: debt_financing,2010-10,2010-Q4,2010,10
-Rounds: debt_financing,2010-11,2010-Q4,2010,17
-Rounds: debt_financing,2010-12,2010-Q4,2010,10
-Rounds: debt_financing,2011-01,2011-Q1,2011,13
-Rounds: debt_financing,2011-02,2011-Q1,2011,13
-Rounds: debt_financing,2011-03,2011-Q1,2011,9
-Rounds: debt_financing,2011-04,2011-Q2,2011,8
-Rounds: debt_financing,2011-05,2011-Q2,2011,12
-Rounds: debt_financing,2011-06,2011-Q2,2011,12
-Rounds: debt_financing,2011-07,2011-Q3,2011,10
-Rounds: debt_financing,2011-08,2011-Q3,2011,14
-Rounds: debt_financing,2011-09,2011-Q3,2011,16
-Rounds: debt_financing,2011-10,2011-Q4,2011,21
-Rounds: debt_financing,2011-11,2011-Q4,2011,10
-Rounds: debt_financing,2011-12,2011-Q4,2011,19
-Rounds: debt_financing,2012-01,2012-Q1,2012,17
-Rounds: debt_financing,2012-02,2012-Q1,2012,12
-Rounds: debt_financing,2012-03,2012-Q1,2012,21
-Rounds: debt_financing,2012-04,2012-Q2,2012,20
-Rounds: debt_financing,2012-05,2012-Q2,2012,13
-Rounds: debt_financing,2012-06,2012-Q2,2012,18
-Rounds: debt_financing,2012-07,2012-Q3,2012,20
-Rounds: debt_financing,2012-08,2012-Q3,2012,18
-Rounds: debt_financing,2012-09,2012-Q3,2012,9
-Rounds: debt_financing,2012-10,2012-Q4,2012,13
-Rounds: debt_financing,2012-11,2012-Q4,2012,9
-Rounds: debt_financing,2012-12,2012-Q4,2012,7
-Rounds: debt_financing,2013-01,2013-Q1,2013,17
-Rounds: debt_financing,2013-02,2013-Q1,2013,16
-Rounds: debt_financing,2013-03,2013-Q1,2013,21
-Rounds: debt_financing,2013-04,2013-Q2,2013,15
-Rounds: debt_financing,2013-05,2013-Q2,2013,135
-Rounds: debt_financing,2013-06,2013-Q2,2013,286
-Rounds: debt_financing,2013-07,2013-Q3,2013,411
-Rounds: debt_financing,2013-08,2013-Q3,2013,342
-Rounds: debt_financing,2013-09,2013-Q3,2013,424
-Rounds: debt_financing,2013-10,2013-Q4,2013,269
-Rounds: debt_financing,2013-11,2013-Q4,2013,362
-Rounds: debt_financing,2013-12,2013-Q4,2013,411
-Rounds: debt_financing,2014-01,2014-Q1,2014,360
-Rounds: debt_financing,2014-02,2014-Q1,2014,458
-Rounds: debt_financing,2014-03,2014-Q1,2014,292
-Rounds: debt_financing,2014-04,2014-Q2,2014,141
-Rounds: debt_financing,2014-05,2014-Q2,2014,126
-Rounds: debt_financing,2014-06,2014-Q2,2014,112
-Rounds: debt_financing,2014-07,2014-Q3,2014,206
-Rounds: debt_financing,2014-08,2014-Q3,2014,133
-Rounds: debt_financing,2014-09,2014-Q3,2014,106
-Rounds: debt_financing,2014-10,2014-Q4,2014,29
-Rounds: equity_crowdfunding,2012-09,2012-Q3,2012,2
-Rounds: equity_crowdfunding,2013-03,2013-Q1,2013,1
-Rounds: equity_crowdfunding,2013-04,2013-Q2,2013,1
-Rounds: equity_crowdfunding,2013-06,2013-Q2,2013,1
-Rounds: equity_crowdfunding,2013-07,2013-Q3,2013,2
-Rounds: equity_crowdfunding,2013-08,2013-Q3,2013,2
-Rounds: equity_crowdfunding,2013-09,2013-Q3,2013,1
-Rounds: equity_crowdfunding,2013-10,2013-Q4,2013,1
-Rounds: equity_crowdfunding,2013-12,2013-Q4,2013,6
-Rounds: equity_crowdfunding,2014-01,2014-Q1,2014,5
-Rounds: equity_crowdfunding,2014-02,2014-Q1,2014,8
-Rounds: equity_crowdfunding,2014-03,2014-Q1,2014,7
-Rounds: equity_crowdfunding,2014-04,2014-Q2,2014,7
-Rounds: equity_crowdfunding,2014-05,2014-Q2,2014,33
-Rounds: equity_crowdfunding,2014-06,2014-Q2,2014,56
-Rounds: equity_crowdfunding,2014-07,2014-Q3,2014,1673
-Rounds: equity_crowdfunding,2014-08,2014-Q3,2014,16
-Rounds: equity_crowdfunding,2014-09,2014-Q3,2014,294
-Rounds: equity_crowdfunding,2014-10,2014-Q4,2014,2
-Rounds: grant,2008-01,2008-Q1,2008,1
-Rounds: grant,2008-06,2008-Q2,2008,1
-Rounds: grant,2008-07,2008-Q3,2008,1
-Rounds: grant,2008-10,2008-Q4,2008,1
-Rounds: grant,2008-11,2008-Q4,2008,1
-Rounds: grant,2009-04,2009-Q2,2009,1
-Rounds: grant,2009-06,2009-Q2,2009,1
-Rounds: grant,2009-07,2009-Q3,2009,2
-Rounds: grant,2009-08,2009-Q3,2009,7
-Rounds: grant,2009-09,2009-Q3,2009,12
-Rounds: grant,2009-10,2009-Q4,2009,6
-Rounds: grant,2009-11,2009-Q4,2009,17
-Rounds: grant,2009-12,2009-Q4,2009,23
-Rounds: grant,2010-01,2010-Q1,2010,22
-Rounds: grant,2010-02,2010-Q1,2010,4
-Rounds: grant,2010-03,2010-Q1,2010,11
-Rounds: grant,2010-04,2010-Q2,2010,5
-Rounds: grant,2010-05,2010-Q2,2010,4
-Rounds: grant,2010-06,2010-Q2,2010,6
-Rounds: grant,2010-07,2010-Q3,2010,10
-Rounds: grant,2010-08,2010-Q3,2010,11
-Rounds: grant,2010-09,2010-Q3,2010,13
-Rounds: grant,2010-10,2010-Q4,2010,18
-Rounds: grant,2010-11,2010-Q4,2010,13
-Rounds: grant,2010-12,2010-Q4,2010,4
-Rounds: grant,2011-01,2011-Q1,2011,10
-Rounds: grant,2011-02,2011-Q1,2011,11
-Rounds: grant,2011-03,2011-Q1,2011,4
-Rounds: grant,2011-04,2011-Q2,2011,5
-Rounds: grant,2011-05,2011-Q2,2011,11
-Rounds: grant,2011-06,2011-Q2,2011,9
-Rounds: grant,2011-07,2011-Q3,2011,5
-Rounds: grant,2011-08,2011-Q3,2011,19
-Rounds: grant,2011-09,2011-Q3,2011,11
-Rounds: grant,2011-10,2011-Q4,2011,9
-Rounds: grant,2011-11,2011-Q4,2011,9
-Rounds: grant,2011-12,2011-Q4,2011,14
-Rounds: grant,2012-01,2012-Q1,2012,6
-Rounds: grant,2012-02,2012-Q1,2012,7
-Rounds: grant,2012-03,2012-Q1,2012,6
-Rounds: grant,2012-04,2012-Q2,2012,16
-Rounds: grant,2012-05,2012-Q2,2012,14
-Rounds: grant,2012-06,2012-Q2,2012,14
-Rounds: grant,2012-07,2012-Q3,2012,12
-Rounds: grant,2012-08,2012-Q3,2012,14
-Rounds: grant,2012-09,2012-Q3,2012,10
-Rounds: grant,2012-10,2012-Q4,2012,9
-Rounds: grant,2012-11,2012-Q4,2012,3
-Rounds: grant,2012-12,2012-Q4,2012,3
-Rounds: grant,2013-01,2013-Q1,2013,15
-Rounds: grant,2013-02,2013-Q1,2013,10
-Rounds: grant,2013-03,2013-Q1,2013,22
-Rounds: grant,2013-04,2013-Q2,2013,9
-Rounds: grant,2013-05,2013-Q2,2013,8
-Rounds: grant,2013-06,2013-Q2,2013,33
-Rounds: grant,2013-07,2013-Q3,2013,36
-Rounds: grant,2013-08,2013-Q3,2013,40
-Rounds: grant,2013-09,2013-Q3,2013,62
-Rounds: grant,2013-10,2013-Q4,2013,36
-Rounds: grant,2013-11,2013-Q4,2013,57
-Rounds: grant,2013-12,2013-Q4,2013,52
-Rounds: grant,2014-01,2014-Q1,2014,49
-Rounds: grant,2014-02,2014-Q1,2014,57
-Rounds: grant,2014-03,2014-Q1,2014,38
-Rounds: grant,2014-04,2014-Q2,2014,36
-Rounds: grant,2014-05,2014-Q2,2014,130
-Rounds: grant,2014-06,2014-Q2,2014,44
-Rounds: grant,2014-07,2014-Q3,2014,84
-Rounds: grant,2014-08,2014-Q3,2014,61
-Rounds: grant,2014-09,2014-Q3,2014,81
-Rounds: grant,2014-10,2014-Q4,2014,6
-Rounds: post_ipo_debt,2009-06,2009-Q2,2009,1
-Rounds: post_ipo_debt,2009-07,2009-Q3,2009,1
-Rounds: post_ipo_debt,2009-11,2009-Q4,2009,1
-Rounds: post_ipo_debt,2010-01,2010-Q1,2010,1
-Rounds: post_ipo_debt,2010-08,2010-Q3,2010,1
-Rounds: post_ipo_debt,2013-04,2013-Q2,2013,1
-Rounds: post_ipo_debt,2013-07,2013-Q3,2013,1
-Rounds: post_ipo_debt,2013-12,2013-Q4,2013,2
-Rounds: post_ipo_debt,2014-02,2014-Q1,2014,5
-Rounds: post_ipo_debt,2014-03,2014-Q1,2014,15
-Rounds: post_ipo_debt,2014-04,2014-Q2,2014,7
-Rounds: post_ipo_debt,2014-05,2014-Q2,2014,3
-Rounds: post_ipo_debt,2014-06,2014-Q2,2014,6
-Rounds: post_ipo_debt,2014-07,2014-Q3,2014,8
-Rounds: post_ipo_debt,2014-08,2014-Q3,2014,6
-Rounds: post_ipo_debt,2014-09,2014-Q3,2014,8
-Rounds: post_ipo_debt,2014-10,2014-Q4,2014,4
-Rounds: post_ipo_equity,2007-10,2007-Q4,2007,1
-Rounds: post_ipo_equity,2008-08,2008-Q3,2008,3
-Rounds: post_ipo_equity,2008-09,2008-Q3,2008,1
-Rounds: post_ipo_equity,2009-06,2009-Q2,2009,2
-Rounds: post_ipo_equity,2009-10,2009-Q4,2009,1
-Rounds: post_ipo_equity,2009-11,2009-Q4,2009,1
-Rounds: post_ipo_equity,2009-12,2009-Q4,2009,3
-Rounds: post_ipo_equity,2010-01,2010-Q1,2010,1
-Rounds: post_ipo_equity,2010-02,2010-Q1,2010,2
-Rounds: post_ipo_equity,2010-10,2010-Q4,2010,1
-Rounds: post_ipo_equity,2010-11,2010-Q4,2010,1
-Rounds: post_ipo_equity,2011-02,2011-Q1,2011,1
-Rounds: post_ipo_equity,2012-02,2012-Q1,2012,3
-Rounds: post_ipo_equity,2012-03,2012-Q1,2012,1
-Rounds: post_ipo_equity,2012-04,2012-Q2,2012,3
-Rounds: post_ipo_equity,2012-05,2012-Q2,2012,1
-Rounds: post_ipo_equity,2012-07,2012-Q3,2012,1
-Rounds: post_ipo_equity,2012-09,2012-Q3,2012,1
-Rounds: post_ipo_equity,2012-10,2012-Q4,2012,2
-Rounds: post_ipo_equity,2012-11,2012-Q4,2012,1
-Rounds: post_ipo_equity,2012-12,2012-Q4,2012,1
-Rounds: post_ipo_equity,2013-01,2013-Q1,2013,1
-Rounds: post_ipo_equity,2013-02,2013-Q1,2013,1
-Rounds: post_ipo_equity,2013-03,2013-Q1,2013,2
-Rounds: post_ipo_equity,2013-04,2013-Q2,2013,1
-Rounds: post_ipo_equity,2013-05,2013-Q2,2013,3
-Rounds: post_ipo_equity,2013-06,2013-Q2,2013,7
-Rounds: post_ipo_equity,2013-07,2013-Q3,2013,6
-Rounds: post_ipo_equity,2013-08,2013-Q3,2013,14
-Rounds: post_ipo_equity,2013-09,2013-Q3,2013,9
-Rounds: post_ipo_equity,2013-10,2013-Q4,2013,10
-Rounds: post_ipo_equity,2013-11,2013-Q4,2013,15
-Rounds: post_ipo_equity,2013-12,2013-Q4,2013,10
-Rounds: post_ipo_equity,2014-01,2014-Q1,2014,15
-Rounds: post_ipo_equity,2014-02,2014-Q1,2014,35
-Rounds: post_ipo_equity,2014-03,2014-Q1,2014,51
-Rounds: post_ipo_equity,2014-04,2014-Q2,2014,19
-Rounds: post_ipo_equity,2014-05,2014-Q2,2014,31
-Rounds: post_ipo_equity,2014-06,2014-Q2,2014,31
-Rounds: post_ipo_equity,2014-07,2014-Q3,2014,17
-Rounds: post_ipo_equity,2014-08,2014-Q3,2014,31
-Rounds: post_ipo_equity,2014-09,2014-Q3,2014,26
-Rounds: post_ipo_equity,2014-10,2014-Q4,2014,7
-Rounds: private_equity,2007-11,2007-Q4,2007,1
-Rounds: private_equity,2007-12,2007-Q4,2007,1
-Rounds: private_equity,2008-01,2008-Q1,2008,1
-Rounds: private_equity,2008-05,2008-Q2,2008,2
-Rounds: private_equity,2008-06,2008-Q2,2008,1
-Rounds: private_equity,2008-07,2008-Q3,2008,3
-Rounds: private_equity,2008-08,2008-Q3,2008,1
-Rounds: private_equity,2008-09,2008-Q3,2008,4
-Rounds: private_equity,2008-12,2008-Q4,2008,5
-Rounds: private_equity,2009-01,2009-Q1,2009,4
-Rounds: private_equity,2009-02,2009-Q1,2009,2
-Rounds: private_equity,2009-03,2009-Q1,2009,1
-Rounds: private_equity,2009-04,2009-Q2,2009,2
-Rounds: private_equity,2009-05,2009-Q2,2009,4
-Rounds: private_equity,2009-06,2009-Q2,2009,18
-Rounds: private_equity,2009-07,2009-Q3,2009,1
-Rounds: private_equity,2009-09,2009-Q3,2009,5
-Rounds: private_equity,2009-10,2009-Q4,2009,2
-Rounds: private_equity,2009-11,2009-Q4,2009,6
-Rounds: private_equity,2009-12,2009-Q4,2009,13
-Rounds: private_equity,2010-01,2010-Q1,2010,13
-Rounds: private_equity,2010-02,2010-Q1,2010,11
-Rounds: private_equity,2010-03,2010-Q1,2010,13
-Rounds: private_equity,2010-04,2010-Q2,2010,8
-Rounds: private_equity,2010-05,2010-Q2,2010,8
-Rounds: private_equity,2010-06,2010-Q2,2010,6
-Rounds: private_equity,2010-07,2010-Q3,2010,15
-Rounds: private_equity,2010-08,2010-Q3,2010,3
-Rounds: private_equity,2010-09,2010-Q3,2010,3
-Rounds: private_equity,2010-10,2010-Q4,2010,8
-Rounds: private_equity,2010-11,2010-Q4,2010,6
-Rounds: private_equity,2010-12,2010-Q4,2010,3
-Rounds: private_equity,2011-01,2011-Q1,2011,10
-Rounds: private_equity,2011-02,2011-Q1,2011,3
-Rounds: private_equity,2011-03,2011-Q1,2011,6
-Rounds: private_equity,2011-04,2011-Q2,2011,8
-Rounds: private_equity,2011-05,2011-Q2,2011,2
-Rounds: private_equity,2011-06,2011-Q2,2011,9
-Rounds: private_equity,2011-07,2011-Q3,2011,13
-Rounds: private_equity,2011-08,2011-Q3,2011,5
-Rounds: private_equity,2011-09,2011-Q3,2011,9
-Rounds: private_equity,2011-10,2011-Q4,2011,5
-Rounds: private_equity,2011-11,2011-Q4,2011,6
-Rounds: private_equity,2011-12,2011-Q4,2011,7
-Rounds: private_equity,2012-01,2012-Q1,2012,7
-Rounds: private_equity,2012-02,2012-Q1,2012,11
-Rounds: private_equity,2012-03,2012-Q1,2012,6
-Rounds: private_equity,2012-04,2012-Q2,2012,8
-Rounds: private_equity,2012-05,2012-Q2,2012,7
-Rounds: private_equity,2012-06,2012-Q2,2012,12
-Rounds: private_equity,2012-07,2012-Q3,2012,9
-Rounds: private_equity,2012-08,2012-Q3,2012,2
-Rounds: private_equity,2012-09,2012-Q3,2012,6
-Rounds: private_equity,2012-10,2012-Q4,2012,4
-Rounds: private_equity,2012-11,2012-Q4,2012,11
-Rounds: private_equity,2012-12,2012-Q4,2012,9
-Rounds: private_equity,2013-01,2013-Q1,2013,23
-Rounds: private_equity,2013-02,2013-Q1,2013,25
-Rounds: private_equity,2013-03,2013-Q1,2013,29
-Rounds: private_equity,2013-04,2013-Q2,2013,33
-Rounds: private_equity,2013-05,2013-Q2,2013,83
-Rounds: private_equity,2013-06,2013-Q2,2013,97
-Rounds: private_equity,2013-07,2013-Q3,2013,138
-Rounds: private_equity,2013-08,2013-Q3,2013,136
-Rounds: private_equity,2013-09,2013-Q3,2013,148
-Rounds: private_equity,2013-10,2013-Q4,2013,148
-Rounds: private_equity,2013-11,2013-Q4,2013,44
-Rounds: private_equity,2013-12,2013-Q4,2013,39
-Rounds: private_equity,2014-01,2014-Q1,2014,44
-Rounds: private_equity,2014-02,2014-Q1,2014,53
-Rounds: private_equity,2014-03,2014-Q1,2014,36
-Rounds: private_equity,2014-04,2014-Q2,2014,47
-Rounds: private_equity,2014-05,2014-Q2,2014,74
-Rounds: private_equity,2014-06,2014-Q2,2014,71
-Rounds: private_equity,2014-07,2014-Q3,2014,38
-Rounds: private_equity,2014-08,2014-Q3,2014,47
-Rounds: private_equity,2014-09,2014-Q3,2014,47
-Rounds: private_equity,2014-10,2014-Q4,2014,36
-Rounds: product_crowdfunding,2011-01,2011-Q1,2011,1
-Rounds: product_crowdfunding,2011-08,2011-Q3,2011,1
-Rounds: product_crowdfunding,2012-07,2012-Q3,2012,1
-Rounds: product_crowdfunding,2012-08,2012-Q3,2012,1
-Rounds: product_crowdfunding,2012-10,2012-Q4,2012,1
-Rounds: product_crowdfunding,2012-12,2012-Q4,2012,2
-Rounds: product_crowdfunding,2013-05,2013-Q2,2013,2
-Rounds: product_crowdfunding,2013-06,2013-Q2,2013,3
-Rounds: product_crowdfunding,2013-07,2013-Q3,2013,6
-Rounds: product_crowdfunding,2013-08,2013-Q3,2013,15
-Rounds: product_crowdfunding,2013-09,2013-Q3,2013,31
-Rounds: product_crowdfunding,2013-10,2013-Q4,2013,14
-Rounds: product_crowdfunding,2013-11,2013-Q4,2013,13
-Rounds: product_crowdfunding,2013-12,2013-Q4,2013,16
-Rounds: product_crowdfunding,2014-01,2014-Q1,2014,24
-Rounds: product_crowdfunding,2014-02,2014-Q1,2014,10
-Rounds: product_crowdfunding,2014-03,2014-Q1,2014,7
-Rounds: product_crowdfunding,2014-04,2014-Q2,2014,4
-Rounds: product_crowdfunding,2014-05,2014-Q2,2014,13
-Rounds: product_crowdfunding,2014-06,2014-Q2,2014,11
-Rounds: product_crowdfunding,2014-07,2014-Q3,2014,14
-Rounds: product_crowdfunding,2014-08,2014-Q3,2014,13
-Rounds: product_crowdfunding,2014-09,2014-Q3,2014,13
-Rounds: product_crowdfunding,2014-10,2014-Q4,2014,4
-Rounds: secondary_market,2009-09,2009-Q3,2009,1
-Rounds: secondary_market,2010-07,2010-Q3,2010,1
-Rounds: secondary_market,2011-09,2011-Q3,2011,1
-Rounds: secondary_market,2013-12,2013-Q4,2013,17
-Rounds: secondary_market,2014-01,2014-Q1,2014,3
-Rounds: secondary_market,2014-02,2014-Q1,2014,1
-Rounds: secondary_market,2014-03,2014-Q1,2014,2
-Rounds: secondary_market,2014-04,2014-Q2,2014,4
-Rounds: secondary_market,2014-05,2014-Q2,2014,5
-Rounds: secondary_market,2014-06,2014-Q2,2014,1
-Rounds: secondary_market,2014-07,2014-Q3,2014,2
-Rounds: secondary_market,2014-08,2014-Q3,2014,5
-Rounds: secondary_market,2014-09,2014-Q3,2014,4
-Rounds: seed,2007-06,2007-Q2,2007,5
-Rounds: seed,2007-07,2007-Q3,2007,12
-Rounds: seed,2007-08,2007-Q3,2007,26
-Rounds: seed,2007-09,2007-Q3,2007,6
-Rounds: seed,2007-10,2007-Q4,2007,6
-Rounds: seed,2007-11,2007-Q4,2007,23
-Rounds: seed,2007-12,2007-Q4,2007,15
-Rounds: seed,2008-01,2008-Q1,2008,13
-Rounds: seed,2008-02,2008-Q1,2008,64
-Rounds: seed,2008-03,2008-Q1,2008,57
-Rounds: seed,2008-04,2008-Q2,2008,35
-Rounds: seed,2008-05,2008-Q2,2008,37
-Rounds: seed,2008-06,2008-Q2,2008,64
-Rounds: seed,2008-07,2008-Q3,2008,55
-Rounds: seed,2008-08,2008-Q3,2008,59
-Rounds: seed,2008-09,2008-Q3,2008,45
-Rounds: seed,2008-10,2008-Q4,2008,41
-Rounds: seed,2008-11,2008-Q4,2008,49
-Rounds: seed,2008-12,2008-Q4,2008,45
-Rounds: seed,2009-01,2009-Q1,2009,49
-Rounds: seed,2009-02,2009-Q1,2009,36
-Rounds: seed,2009-03,2009-Q1,2009,74
-Rounds: seed,2009-04,2009-Q2,2009,50
-Rounds: seed,2009-05,2009-Q2,2009,59
-Rounds: seed,2009-06,2009-Q2,2009,60
-Rounds: seed,2009-07,2009-Q3,2009,43
-Rounds: seed,2009-08,2009-Q3,2009,82
-Rounds: seed,2009-09,2009-Q3,2009,89
-Rounds: seed,2009-10,2009-Q4,2009,61
-Rounds: seed,2009-11,2009-Q4,2009,52
-Rounds: seed,2009-12,2009-Q4,2009,59
-Rounds: seed,2010-01,2010-Q1,2010,50
-Rounds: seed,2010-02,2010-Q1,2010,62
-Rounds: seed,2010-03,2010-Q1,2010,76
-Rounds: seed,2010-04,2010-Q2,2010,73
-Rounds: seed,2010-05,2010-Q2,2010,77
-Rounds: seed,2010-06,2010-Q2,2010,74
-Rounds: seed,2010-07,2010-Q3,2010,78
-Rounds: seed,2010-08,2010-Q3,2010,97
-Rounds: seed,2010-09,2010-Q3,2010,80
-Rounds: seed,2010-10,2010-Q4,2010,88
-Rounds: seed,2010-11,2010-Q4,2010,88
-Rounds: seed,2010-12,2010-Q4,2010,69
-Rounds: seed,2011-01,2011-Q1,2011,71
-Rounds: seed,2011-02,2011-Q1,2011,88
-Rounds: seed,2011-03,2011-Q1,2011,134
-Rounds: seed,2011-04,2011-Q2,2011,106
-Rounds: seed,2011-05,2011-Q2,2011,122
-Rounds: seed,2011-06,2011-Q2,2011,134
-Rounds: seed,2011-07,2011-Q3,2011,130
-Rounds: seed,2011-08,2011-Q3,2011,115
-Rounds: seed,2011-09,2011-Q3,2011,125
-Rounds: seed,2011-10,2011-Q4,2011,113
-Rounds: seed,2011-11,2011-Q4,2011,138
-Rounds: seed,2011-12,2011-Q4,2011,107
-Rounds: seed,2012-01,2012-Q1,2012,125
-Rounds: seed,2012-02,2012-Q1,2012,135
-Rounds: seed,2012-03,2012-Q1,2012,142
-Rounds: seed,2012-04,2012-Q2,2012,130
-Rounds: seed,2012-05,2012-Q2,2012,220
-Rounds: seed,2012-06,2012-Q2,2012,144
-Rounds: seed,2012-07,2012-Q3,2012,159
-Rounds: seed,2012-08,2012-Q3,2012,198
-Rounds: seed,2012-09,2012-Q3,2012,181
-Rounds: seed,2012-10,2012-Q4,2012,162
-Rounds: seed,2012-11,2012-Q4,2012,182
-Rounds: seed,2012-12,2012-Q4,2012,147
-Rounds: seed,2013-01,2013-Q1,2013,179
-Rounds: seed,2013-02,2013-Q1,2013,253
-Rounds: seed,2013-03,2013-Q1,2013,289
-Rounds: seed,2013-04,2013-Q2,2013,204
-Rounds: seed,2013-05,2013-Q2,2013,457
-Rounds: seed,2013-06,2013-Q2,2013,479
-Rounds: seed,2013-07,2013-Q3,2013,737
-Rounds: seed,2013-08,2013-Q3,2013,635
-Rounds: seed,2013-09,2013-Q3,2013,741
-Rounds: seed,2013-10,2013-Q4,2013,716
-Rounds: seed,2013-11,2013-Q4,2013,585
-Rounds: seed,2013-12,2013-Q4,2013,340
-Rounds: seed,2014-01,2014-Q1,2014,520
-Rounds: seed,2014-02,2014-Q1,2014,917
-Rounds: seed,2014-03,2014-Q1,2014,1375
-Rounds: seed,2014-04,2014-Q2,2014,647
-Rounds: seed,2014-05,2014-Q2,2014,1411
-Rounds: seed,2014-06,2014-Q2,2014,827
-Rounds: seed,2014-07,2014-Q3,2014,731
-Rounds: seed,2014-08,2014-Q3,2014,898
-Rounds: seed,2014-09,2014-Q3,2014,1174
-Rounds: seed,2014-10,2014-Q4,2014,263
-Rounds: undisclosed,2007-07,2007-Q3,2007,1
-Rounds: undisclosed,2007-08,2007-Q3,2007,3
-Rounds: undisclosed,2007-10,2007-Q4,2007,1
-Rounds: undisclosed,2007-11,2007-Q4,2007,1
-Rounds: undisclosed,2007-12,2007-Q4,2007,1
-Rounds: undisclosed,2008-01,2008-Q1,2008,4
-Rounds: undisclosed,2008-03,2008-Q1,2008,4
-Rounds: undisclosed,2008-04,2008-Q2,2008,9
-Rounds: undisclosed,2008-05,2008-Q2,2008,11
-Rounds: undisclosed,2008-06,2008-Q2,2008,25
-Rounds: undisclosed,2008-07,2008-Q3,2008,23
-Rounds: undisclosed,2008-08,2008-Q3,2008,16
-Rounds: undisclosed,2008-09,2008-Q3,2008,14
-Rounds: undisclosed,2008-10,2008-Q4,2008,20
-Rounds: undisclosed,2008-11,2008-Q4,2008,19
-Rounds: undisclosed,2008-12,2008-Q4,2008,44
-Rounds: undisclosed,2009-01,2009-Q1,2009,128
-Rounds: undisclosed,2009-02,2009-Q1,2009,9
-Rounds: undisclosed,2009-03,2009-Q1,2009,24
-Rounds: undisclosed,2009-04,2009-Q2,2009,43
-Rounds: undisclosed,2009-05,2009-Q2,2009,100
-Rounds: undisclosed,2009-06,2009-Q2,2009,174
-Rounds: undisclosed,2009-07,2009-Q3,2009,235
-Rounds: undisclosed,2009-08,2009-Q3,2009,123
-Rounds: undisclosed,2009-09,2009-Q3,2009,166
-Rounds: undisclosed,2009-10,2009-Q4,2009,83
-Rounds: undisclosed,2009-11,2009-Q4,2009,111
-Rounds: undisclosed,2009-12,2009-Q4,2009,312
-Rounds: undisclosed,2010-01,2010-Q1,2010,368
-Rounds: undisclosed,2010-02,2010-Q1,2010,229
-Rounds: undisclosed,2010-03,2010-Q1,2010,382
-Rounds: undisclosed,2010-04,2010-Q2,2010,452
-Rounds: undisclosed,2010-05,2010-Q2,2010,263
-Rounds: undisclosed,2010-06,2010-Q2,2010,174
-Rounds: undisclosed,2010-07,2010-Q3,2010,298
-Rounds: undisclosed,2010-08,2010-Q3,2010,116
-Rounds: undisclosed,2010-09,2010-Q3,2010,191
-Rounds: undisclosed,2010-10,2010-Q4,2010,313
-Rounds: undisclosed,2010-11,2010-Q4,2010,153
-Rounds: undisclosed,2010-12,2010-Q4,2010,120
-Rounds: undisclosed,2011-01,2011-Q1,2011,127
-Rounds: undisclosed,2011-02,2011-Q1,2011,116
-Rounds: undisclosed,2011-03,2011-Q1,2011,125
-Rounds: undisclosed,2011-04,2011-Q2,2011,109
-Rounds: undisclosed,2011-05,2011-Q2,2011,115
-Rounds: undisclosed,2011-06,2011-Q2,2011,131
-Rounds: undisclosed,2011-07,2011-Q3,2011,118
-Rounds: undisclosed,2011-08,2011-Q3,2011,138
-Rounds: undisclosed,2011-09,2011-Q3,2011,134
-Rounds: undisclosed,2011-10,2011-Q4,2011,147
-Rounds: undisclosed,2011-11,2011-Q4,2011,103
-Rounds: undisclosed,2011-12,2011-Q4,2011,100
-Rounds: undisclosed,2012-01,2012-Q1,2012,132
-Rounds: undisclosed,2012-02,2012-Q1,2012,114
-Rounds: undisclosed,2012-03,2012-Q1,2012,110
-Rounds: undisclosed,2012-04,2012-Q2,2012,157
-Rounds: undisclosed,2012-05,2012-Q2,2012,129
-Rounds: undisclosed,2012-06,2012-Q2,2012,150
-Rounds: undisclosed,2012-07,2012-Q3,2012,120
-Rounds: undisclosed,2012-08,2012-Q3,2012,111
-Rounds: undisclosed,2012-09,2012-Q3,2012,106
-Rounds: undisclosed,2012-10,2012-Q4,2012,126
-Rounds: undisclosed,2012-11,2012-Q4,2012,99
-Rounds: undisclosed,2012-12,2012-Q4,2012,62
-Rounds: undisclosed,2013-01,2013-Q1,2013,115
-Rounds: undisclosed,2013-02,2013-Q1,2013,85
-Rounds: undisclosed,2013-03,2013-Q1,2013,42
-Rounds: undisclosed,2013-04,2013-Q2,2013,104
-Rounds: undisclosed,2013-05,2013-Q2,2013,154
-Rounds: undisclosed,2013-06,2013-Q2,2013,209
-Rounds: undisclosed,2013-07,2013-Q3,2013,272
-Rounds: undisclosed,2013-08,2013-Q3,2013,328
-Rounds: undisclosed,2013-09,2013-Q3,2013,286
-Rounds: undisclosed,2013-10,2013-Q4,2013,603
-Rounds: undisclosed,2013-11,2013-Q4,2013,708
-Rounds: undisclosed,2013-12,2013-Q4,2013,818
-Rounds: undisclosed,2014-01,2014-Q1,2014,747
-Rounds: undisclosed,2014-02,2014-Q1,2014,851
-Rounds: undisclosed,2014-03,2014-Q1,2014,863
-Rounds: undisclosed,2014-04,2014-Q2,2014,330
-Rounds: undisclosed,2014-05,2014-Q2,2014,176
-Rounds: undisclosed,2014-06,2014-Q2,2014,156
-Rounds: undisclosed,2014-07,2014-Q3,2014,440
-Rounds: undisclosed,2014-08,2014-Q3,2014,250
-Rounds: undisclosed,2014-09,2014-Q3,2014,170
-Rounds: undisclosed,2014-10,2014-Q4,2014,32
-Rounds: venture,2007-05,2007-Q2,2007,5
-Rounds: venture,2007-06,2007-Q2,2007,52
-Rounds: venture,2007-07,2007-Q3,2007,155
-Rounds: venture,2007-08,2007-Q3,2007,207
-Rounds: venture,2007-09,2007-Q3,2007,65
-Rounds: venture,2007-10,2007-Q4,2007,58
-Rounds: venture,2007-11,2007-Q4,2007,143
-Rounds: venture,2007-12,2007-Q4,2007,128
-Rounds: venture,2008-01,2008-Q1,2008,127
-Rounds: venture,2008-02,2008-Q1,2008,137
-Rounds: venture,2008-03,2008-Q1,2008,132
-Rounds: venture,2008-04,2008-Q2,2008,113
-Rounds: venture,2008-05,2008-Q2,2008,178
-Rounds: venture,2008-06,2008-Q2,2008,180
-Rounds: venture,2008-07,2008-Q3,2008,114
-Rounds: venture,2008-08,2008-Q3,2008,123
-Rounds: venture,2008-09,2008-Q3,2008,92
-Rounds: venture,2008-10,2008-Q4,2008,99
-Rounds: venture,2008-11,2008-Q4,2008,93
-Rounds: venture,2008-12,2008-Q4,2008,182
-Rounds: venture,2009-01,2009-Q1,2009,346
-Rounds: venture,2009-02,2009-Q1,2009,98
-Rounds: venture,2009-03,2009-Q1,2009,131
-Rounds: venture,2009-04,2009-Q2,2009,149
-Rounds: venture,2009-05,2009-Q2,2009,215
-Rounds: venture,2009-06,2009-Q2,2009,458
-Rounds: venture,2009-07,2009-Q3,2009,382
-Rounds: venture,2009-08,2009-Q3,2009,174
-Rounds: venture,2009-09,2009-Q3,2009,267
-Rounds: venture,2009-10,2009-Q4,2009,162
-Rounds: venture,2009-11,2009-Q4,2009,212
-Rounds: venture,2009-12,2009-Q4,2009,327
-Rounds: venture,2010-01,2010-Q1,2010,269
-Rounds: venture,2010-02,2010-Q1,2010,351
-Rounds: venture,2010-03,2010-Q1,2010,523
-Rounds: venture,2010-04,2010-Q2,2010,729
-Rounds: venture,2010-05,2010-Q2,2010,305
-Rounds: venture,2010-06,2010-Q2,2010,297
-Rounds: venture,2010-07,2010-Q3,2010,318
-Rounds: venture,2010-08,2010-Q3,2010,306
-Rounds: venture,2010-09,2010-Q3,2010,238
-Rounds: venture,2010-10,2010-Q4,2010,541
-Rounds: venture,2010-11,2010-Q4,2010,189
-Rounds: venture,2010-12,2010-Q4,2010,136
-Rounds: venture,2011-01,2011-Q1,2011,165
-Rounds: venture,2011-02,2011-Q1,2011,153
-Rounds: venture,2011-03,2011-Q1,2011,155
-Rounds: venture,2011-04,2011-Q2,2011,141
-Rounds: venture,2011-05,2011-Q2,2011,173
-Rounds: venture,2011-06,2011-Q2,2011,199
-Rounds: venture,2011-07,2011-Q3,2011,167
-Rounds: venture,2011-08,2011-Q3,2011,187
-Rounds: venture,2011-09,2011-Q3,2011,177
-Rounds: venture,2011-10,2011-Q4,2011,146
-Rounds: venture,2011-11,2011-Q4,2011,163
-Rounds: venture,2011-12,2011-Q4,2011,141
-Rounds: venture,2012-01,2012-Q1,2012,178
-Rounds: venture,2012-02,2012-Q1,2012,159
-Rounds: venture,2012-03,2012-Q1,2012,150
-Rounds: venture,2012-04,2012-Q2,2012,162
-Rounds: venture,2012-05,2012-Q2,2012,179
-Rounds: venture,2012-06,2012-Q2,2012,189
-Rounds: venture,2012-07,2012-Q3,2012,173
-Rounds: venture,2012-08,2012-Q3,2012,150
-Rounds: venture,2012-09,2012-Q3,2012,176
-Rounds: venture,2012-10,2012-Q4,2012,127
-Rounds: venture,2012-11,2012-Q4,2012,151
-Rounds: venture,2012-12,2012-Q4,2012,107
-Rounds: venture,2013-01,2013-Q1,2013,191
-Rounds: venture,2013-02,2013-Q1,2013,166
-Rounds: venture,2013-03,2013-Q1,2013,181
-Rounds: venture,2013-04,2013-Q2,2013,185
-Rounds: venture,2013-05,2013-Q2,2013,477
-Rounds: venture,2013-06,2013-Q2,2013,637
-Rounds: venture,2013-07,2013-Q3,2013,838
-Rounds: venture,2013-08,2013-Q3,2013,795
-Rounds: venture,2013-09,2013-Q3,2013,858
-Rounds: venture,2013-10,2013-Q4,2013,690
-Rounds: venture,2013-11,2013-Q4,2013,875
-Rounds: venture,2013-12,2013-Q4,2013,896
-Rounds: venture,2014-01,2014-Q1,2014,1247
-Rounds: venture,2014-02,2014-Q1,2014,1103
-Rounds: venture,2014-03,2014-Q1,2014,843
-Rounds: venture,2014-04,2014-Q2,2014,720
-Rounds: venture,2014-05,2014-Q2,2014,992
-Rounds: venture,2014-06,2014-Q2,2014,1232
-Rounds: venture,2014-07,2014-Q3,2014,1008
-Rounds: venture,2014-08,2014-Q3,2014,750
-Rounds: venture,2014-09,2014-Q3,2014,745
-Rounds: venture,2014-10,2014-Q4,2014,148
-Rounds,2007-05,2007-Q2,2007,6
-Rounds,2007-06,2007-Q2,2007,59
-Rounds,2007-07,2007-Q3,2007,181
-Rounds,2007-08,2007-Q3,2007,258
-Rounds,2007-09,2007-Q3,2007,83
-Rounds,2007-10,2007-Q4,2007,76
-Rounds,2007-11,2007-Q4,2007,195
-Rounds,2007-12,2007-Q4,2007,158
-Rounds,2008-01,2008-Q1,2008,162
-Rounds,2008-02,2008-Q1,2008,281
-Rounds,2008-03,2008-Q1,2008,227
-Rounds,2008-04,2008-Q2,2008,189
-Rounds,2008-05,2008-Q2,2008,269
-Rounds,2008-06,2008-Q2,2008,320
-Rounds,2008-07,2008-Q3,2008,230
-Rounds,2008-08,2008-Q3,2008,234
-Rounds,2008-09,2008-Q3,2008,184
-Rounds,2008-10,2008-Q4,2008,189
-Rounds,2008-11,2008-Q4,2008,197
-Rounds,2008-12,2008-Q4,2008,316
-Rounds,2009-01,2009-Q1,2009,572
-Rounds,2009-02,2009-Q1,2009,167
-Rounds,2009-03,2009-Q1,2009,250
-Rounds,2009-04,2009-Q2,2009,273
-Rounds,2009-05,2009-Q2,2009,398
-Rounds,2009-06,2009-Q2,2009,751
-Rounds,2009-07,2009-Q3,2009,694
-Rounds,2009-08,2009-Q3,2009,425
-Rounds,2009-09,2009-Q3,2009,589
-Rounds,2009-10,2009-Q4,2009,343
-Rounds,2009-11,2009-Q4,2009,447
-Rounds,2009-12,2009-Q4,2009,835
-Rounds,2010-01,2010-Q1,2010,811
-Rounds,2010-02,2010-Q1,2010,711
-Rounds,2010-03,2010-Q1,2010,1089
-Rounds,2010-04,2010-Q2,2010,1332
-Rounds,2010-05,2010-Q2,2010,699
-Rounds,2010-06,2010-Q2,2010,603
-Rounds,2010-07,2010-Q3,2010,756
-Rounds,2010-08,2010-Q3,2010,568
-Rounds,2010-09,2010-Q3,2010,572
-Rounds,2010-10,2010-Q4,2010,1027
-Rounds,2010-11,2010-Q4,2010,508
-Rounds,2010-12,2010-Q4,2010,368
-Rounds,2011-01,2011-Q1,2011,436
-Rounds,2011-02,2011-Q1,2011,419
-Rounds,2011-03,2011-Q1,2011,471
-Rounds,2011-04,2011-Q2,2011,426
-Rounds,2011-05,2011-Q2,2011,487
-Rounds,2011-06,2011-Q2,2011,537
-Rounds,2011-07,2011-Q3,2011,500
-Rounds,2011-08,2011-Q3,2011,527
-Rounds,2011-09,2011-Q3,2011,524
-Rounds,2011-10,2011-Q4,2011,475
-Rounds,2011-11,2011-Q4,2011,478
-Rounds,2011-12,2011-Q4,2011,417
-Rounds,2012-01,2012-Q1,2012,518
-Rounds,2012-02,2012-Q1,2012,479
-Rounds,2012-03,2012-Q1,2012,473
-Rounds,2012-04,2012-Q2,2012,542
-Rounds,2012-05,2012-Q2,2012,611
-Rounds,2012-06,2012-Q2,2012,599
-Rounds,2012-07,2012-Q3,2012,548
-Rounds,2012-08,2012-Q3,2012,557
-Rounds,2012-09,2012-Q3,2012,533
-Rounds,2012-10,2012-Q4,2012,494
-Rounds,2012-11,2012-Q4,2012,506
-Rounds,2012-12,2012-Q4,2012,369
-Rounds,2013-01,2013-Q1,2013,589
-Rounds,2013-02,2013-Q1,2013,612
-Rounds,2013-03,2013-Q1,2013,650
-Rounds,2013-04,2013-Q2,2013,624
-Rounds,2013-05,2013-Q2,2013,1389
-Rounds,2013-06,2013-Q2,2013,1838
-Rounds,2013-07,2013-Q3,2013,2558
-Rounds,2013-08,2013-Q3,2013,2412
-Rounds,2013-09,2013-Q3,2013,2660
-Rounds,2013-10,2013-Q4,2013,2583
-Rounds,2013-11,2013-Q4,2013,2809
-Rounds,2013-12,2013-Q4,2013,2700
-Rounds,2014-01,2014-Q1,2014,3173
-Rounds,2014-02,2014-Q1,2014,3656
-Rounds,2014-03,2014-Q1,2014,3703
-Rounds,2014-04,2014-Q2,2014,2073
-Rounds,2014-05,2014-Q2,2014,3138
-Rounds,2014-06,2014-Q2,2014,2721
-Rounds,2014-07,2014-Q3,2014,4534
-Rounds,2014-08,2014-Q3,2014,2359
-Rounds,2014-09,2014-Q3,2014,2860
-Rounds,2014-10,2014-Q4,2014,566
-Acquisitions,2007-05,2007-Q2,2007,1
-Acquisitions,2007-07,2007-Q3,2007,7
-Acquisitions,2007-08,2007-Q3,2007,44
-Acquisitions,2007-09,2007-Q3,2007,11
-Acquisitions,2007-10,2007-Q4,2007,6
-Acquisitions,2007-11,2007-Q4,2007,14
-Acquisitions,2007-12,2007-Q4,2007,6
-Acquisitions,2008-01,2008-Q1,2008,9
-Acquisitions,2008-02,2008-Q1,2008,46
-Acquisitions,2008-03,2008-Q1,2008,43
-Acquisitions,2008-04,2008-Q2,2008,26
-Acquisitions,2008-05,2008-Q2,2008,56
-Acquisitions,2008-06,2008-Q2,2008,62
-Acquisitions,2008-07,2008-Q3,2008,48
-Acquisitions,2008-08,2008-Q3,2008,30
-Acquisitions,2008-09,2008-Q3,2008,77
-Acquisitions,2008-10,2008-Q4,2008,94
-Acquisitions,2008-11,2008-Q4,2008,37
-Acquisitions,2008-12,2008-Q4,2008,50
-Acquisitions,2009-01,2009-Q1,2009,102
-Acquisitions,2009-02,2009-Q1,2009,39
-Acquisitions,2009-03,2009-Q1,2009,35
-Acquisitions,2009-04,2009-Q2,2009,51
-Acquisitions,2009-05,2009-Q2,2009,28
-Acquisitions,2009-06,2009-Q2,2009,218
-Acquisitions,2009-07,2009-Q3,2009,356
-Acquisitions,2009-08,2009-Q3,2009,348
-Acquisitions,2009-09,2009-Q3,2009,228
-Acquisitions,2009-10,2009-Q4,2009,129
-Acquisitions,2009-11,2009-Q4,2009,86
-Acquisitions,2009-12,2009-Q4,2009,92
-Acquisitions,2010-01,2010-Q1,2010,203
-Acquisitions,2010-02,2010-Q1,2010,75
-Acquisitions,2010-03,2010-Q1,2010,69
-Acquisitions,2010-04,2010-Q2,2010,50
-Acquisitions,2010-05,2010-Q2,2010,88
-Acquisitions,2010-06,2010-Q2,2010,108
-Acquisitions,2010-07,2010-Q3,2010,281
-Acquisitions,2010-08,2010-Q3,2010,73
-Acquisitions,2010-09,2010-Q3,2010,81
-Acquisitions,2010-10,2010-Q4,2010,133
-Acquisitions,2010-11,2010-Q4,2010,384
-Acquisitions,2010-12,2010-Q4,2010,475
-Acquisitions,2011-01,2011-Q1,2011,164
-Acquisitions,2011-02,2011-Q1,2011,111
-Acquisitions,2011-03,2011-Q1,2011,121
-Acquisitions,2011-04,2011-Q2,2011,104
-Acquisitions,2011-05,2011-Q2,2011,124
-Acquisitions,2011-06,2011-Q2,2011,132
-Acquisitions,2011-07,2011-Q3,2011,166
-Acquisitions,2011-08,2011-Q3,2011,128
-Acquisitions,2011-09,2011-Q3,2011,122
-Acquisitions,2011-10,2011-Q4,2011,109
-Acquisitions,2011-11,2011-Q4,2011,102
-Acquisitions,2011-12,2011-Q4,2011,101
-Acquisitions,2012-01,2012-Q1,2012,95
-Acquisitions,2012-02,2012-Q1,2012,96
-Acquisitions,2012-03,2012-Q1,2012,109
-Acquisitions,2012-04,2012-Q2,2012,80
-Acquisitions,2012-05,2012-Q2,2012,125
-Acquisitions,2012-06,2012-Q2,2012,117
-Acquisitions,2012-07,2012-Q3,2012,116
-Acquisitions,2012-08,2012-Q3,2012,110
-Acquisitions,2012-09,2012-Q3,2012,100
-Acquisitions,2012-10,2012-Q4,2012,127
-Acquisitions,2012-11,2012-Q4,2012,90
-Acquisitions,2012-12,2012-Q4,2012,91
-Acquisitions,2013-01,2013-Q1,2013,120
-Acquisitions,2013-02,2013-Q1,2013,86
-Acquisitions,2013-03,2013-Q1,2013,118
-Acquisitions,2013-04,2013-Q2,2013,82
-Acquisitions,2013-05,2013-Q2,2013,195
-Acquisitions,2013-06,2013-Q2,2013,184
-Acquisitions,2013-07,2013-Q3,2013,178
-Acquisitions,2013-08,2013-Q3,2013,174
-Acquisitions,2013-09,2013-Q3,2013,179
-Acquisitions,2013-10,2013-Q4,2013,435
-Acquisitions,2013-11,2013-Q4,2013,170
-Acquisitions,2013-12,2013-Q4,2013,207
-Acquisitions,2014-01,2014-Q1,2014,217
-Acquisitions,2014-02,2014-Q1,2014,247
-Acquisitions,2014-03,2014-Q1,2014,350
-Acquisitions,2014-04,2014-Q2,2014,447
-Acquisitions,2014-05,2014-Q2,2014,286
-Acquisitions,2014-06,2014-Q2,2014,419
-Acquisitions,2014-07,2014-Q3,2014,327
-Acquisitions,2014-08,2014-Q3,2014,455
-Acquisitions,2014-09,2014-Q3,2014,398
-Acquisitions,2014-10,2014-Q4,2014,69
-IPOs,2008-02,2008-Q1,2008,5
-IPOs,2008-03,2008-Q1,2008,8
-IPOs,2008-04,2008-Q2,2008,10
-IPOs,2008-05,2008-Q2,2008,11
-IPOs,2008-06,2008-Q2,2008,3
-IPOs,2008-07,2008-Q3,2008,3
-IPOs,2008-09,2008-Q3,2008,1
-IPOs,2008-10,2008-Q4,2008,2
-IPOs,2008-11,2008-Q4,2008,1
-IPOs,2008-12,2008-Q4,2008,9
-IPOs,2009-01,2009-Q1,2009,10
-IPOs,2009-02,2009-Q1,2009,2
-IPOs,2009-04,2009-Q2,2009,3
-IPOs,2009-05,2009-Q2,2009,2
-IPOs,2009-06,2009-Q2,2009,17
-IPOs,2009-07,2009-Q3,2009,10
-IPOs,2009-09,2009-Q3,2009,18
-IPOs,2009-10,2009-Q4,2009,16
-IPOs,2009-11,2009-Q4,2009,23
-IPOs,2009-12,2009-Q4,2009,39
-IPOs,2010-01,2010-Q1,2010,33
-IPOs,2010-02,2010-Q1,2010,9
-IPOs,2010-03,2010-Q1,2010,12
-IPOs,2010-04,2010-Q2,2010,3
-IPOs,2010-05,2010-Q2,2010,7
-IPOs,2010-06,2010-Q2,2010,10
-IPOs,2010-07,2010-Q3,2010,26
-IPOs,2010-08,2010-Q3,2010,8
-IPOs,2010-09,2010-Q3,2010,18
-IPOs,2010-10,2010-Q4,2010,25
-IPOs,2010-11,2010-Q4,2010,17
-IPOs,2010-12,2010-Q4,2010,26
-IPOs,2011-01,2011-Q1,2011,19
-IPOs,2011-02,2011-Q1,2011,11
-IPOs,2011-03,2011-Q1,2011,10
-IPOs,2011-04,2011-Q2,2011,10
-IPOs,2011-05,2011-Q2,2011,8
-IPOs,2011-06,2011-Q2,2011,12
-IPOs,2011-07,2011-Q3,2011,6
-IPOs,2011-08,2011-Q3,2011,16
-IPOs,2011-09,2011-Q3,2011,10
-IPOs,2011-10,2011-Q4,2011,3
-IPOs,2011-11,2011-Q4,2011,5
-IPOs,2011-12,2011-Q4,2011,4
-IPOs,2012-01,2012-Q1,2012,4
-IPOs,2012-02,2012-Q1,2012,7
-IPOs,2012-03,2012-Q1,2012,5
-IPOs,2012-04,2012-Q2,2012,42
-IPOs,2012-05,2012-Q2,2012,8
-IPOs,2012-07,2012-Q3,2012,9
-IPOs,2012-10,2012-Q4,2012,2
-IPOs,2012-11,2012-Q4,2012,2
-IPOs,2012-12,2012-Q4,2012,2
-IPOs,2013-01,2013-Q1,2013,2
-IPOs,2013-02,2013-Q1,2013,2
-IPOs,2013-03,2013-Q1,2013,7
-IPOs,2013-04,2013-Q2,2013,3
-IPOs,2013-05,2013-Q2,2013,17
-IPOs,2013-06,2013-Q2,2013,34
-IPOs,2013-07,2013-Q3,2013,31
-IPOs,2013-08,2013-Q3,2013,65
-IPOs,2013-09,2013-Q3,2013,41
-IPOs,2013-10,2013-Q4,2013,53
-IPOs,2013-11,2013-Q4,2013,35
-IPOs,2013-12,2013-Q4,2013,64
-IPOs,2014-01,2014-Q1,2014,53
-IPOs,2014-02,2014-Q1,2014,68
-IPOs,2014-03,2014-Q1,2014,325
-IPOs,2014-04,2014-Q2,2014,152
-IPOs,2014-05,2014-Q2,2014,795
-IPOs,2014-06,2014-Q2,2014,1492
-IPOs,2014-07,2014-Q3,2014,1574
-IPOs,2014-08,2014-Q3,2014,1074
-IPOs,2014-09,2014-Q3,2014,214
-IPOs,2014-10,2014-Q4,2014,20
+content,month_str,value
+Profiles: Organizations,2007-05,14
+Profiles: Organizations,2007-06,96
+Profiles: Organizations,2007-07,259
+Profiles: Organizations,2007-08,522
+Profiles: Organizations,2007-09,219
+Profiles: Organizations,2007-10,152
+Profiles: Organizations,2007-11,313
+Profiles: Organizations,2007-12,231
+Profiles: Organizations,2008-01,237
+Profiles: Organizations,2008-02,708
+Profiles: Organizations,2008-03,830
+Profiles: Organizations,2008-04,800
+Profiles: Organizations,2008-05,979
+Profiles: Organizations,2008-06,1195
+Profiles: Organizations,2008-07,1149
+Profiles: Organizations,2008-08,1010
+Profiles: Organizations,2008-09,994
+Profiles: Organizations,2008-10,1072
+Profiles: Organizations,2008-11,1125
+Profiles: Organizations,2008-12,1440
+Profiles: Organizations,2009-01,1710
+Profiles: Organizations,2009-02,884
+Profiles: Organizations,2009-03,995
+Profiles: Organizations,2009-04,1229
+Profiles: Organizations,2009-05,1317
+Profiles: Organizations,2009-06,2241
+Profiles: Organizations,2009-07,2284
+Profiles: Organizations,2009-08,1895
+Profiles: Organizations,2009-09,1801
+Profiles: Organizations,2009-10,1369
+Profiles: Organizations,2009-11,1508
+Profiles: Organizations,2009-12,1998
+Profiles: Organizations,2010-01,2060
+Profiles: Organizations,2010-02,1631
+Profiles: Organizations,2010-03,2131
+Profiles: Organizations,2010-04,2010
+Profiles: Organizations,2010-05,1817
+Profiles: Organizations,2010-06,1680
+Profiles: Organizations,2010-07,2354
+Profiles: Organizations,2010-08,2208
+Profiles: Organizations,2010-09,2091
+Profiles: Organizations,2010-10,2607
+Profiles: Organizations,2010-11,2198
+Profiles: Organizations,2010-12,2122
+Profiles: Organizations,2011-01,2091
+Profiles: Organizations,2011-02,2149
+Profiles: Organizations,2011-03,2078
+Profiles: Organizations,2011-04,1839
+Profiles: Organizations,2011-05,1945
+Profiles: Organizations,2011-06,2159
+Profiles: Organizations,2011-07,2272
+Profiles: Organizations,2011-08,1999
+Profiles: Organizations,2011-09,1807
+Profiles: Organizations,2011-10,1861
+Profiles: Organizations,2011-11,1724
+Profiles: Organizations,2011-12,1646
+Profiles: Organizations,2012-01,1579
+Profiles: Organizations,2012-02,1515
+Profiles: Organizations,2012-03,2076
+Profiles: Organizations,2012-04,2090
+Profiles: Organizations,2012-05,2257
+Profiles: Organizations,2012-06,2239
+Profiles: Organizations,2012-07,2316
+Profiles: Organizations,2012-08,2460
+Profiles: Organizations,2012-09,2366
+Profiles: Organizations,2012-10,2685
+Profiles: Organizations,2012-11,2447
+Profiles: Organizations,2012-12,2825
+Profiles: Organizations,2013-01,2803
+Profiles: Organizations,2013-02,2963
+Profiles: Organizations,2013-03,3030
+Profiles: Organizations,2013-04,8155
+Profiles: Organizations,2013-05,13300
+Profiles: Organizations,2013-06,12061
+Profiles: Organizations,2013-07,9397
+Profiles: Organizations,2013-08,15657
+Profiles: Organizations,2013-09,7310
+Profiles: Organizations,2013-10,6356
+Profiles: Organizations,2013-11,6635
+Profiles: Organizations,2013-12,8032
+Profiles: Organizations,2014-01,8979
+Profiles: Organizations,2014-02,8119
+Profiles: Organizations,2014-03,8740
+Profiles: Organizations,2014-04,17443
+Profiles: Organizations,2014-05,6391
+Profiles: Organizations,2014-06,7693
+Profiles: Organizations,2014-07,9675
+Profiles: Organizations,2014-08,7989
+Profiles: Organizations,2014-09,8935
+Profiles: Organizations,2014-10,8684
+Profiles: Organizations,2014-11,1860
+Profiles: People,2007-05,27
+Profiles: People,2007-06,159
+Profiles: People,2007-07,616
+Profiles: People,2007-08,801
+Profiles: People,2007-09,223
+Profiles: People,2007-10,279
+Profiles: People,2007-11,475
+Profiles: People,2007-12,621
+Profiles: People,2008-01,461
+Profiles: People,2008-02,1824
+Profiles: People,2008-03,1523
+Profiles: People,2008-04,1190
+Profiles: People,2008-05,1726
+Profiles: People,2008-06,1801
+Profiles: People,2008-07,1516
+Profiles: People,2008-08,1347
+Profiles: People,2008-09,1230
+Profiles: People,2008-10,1270
+Profiles: People,2008-11,2682
+Profiles: People,2008-12,2171
+Profiles: People,2009-01,1749
+Profiles: People,2009-02,1192
+Profiles: People,2009-03,1359
+Profiles: People,2009-04,1395
+Profiles: People,2009-05,1647
+Profiles: People,2009-06,2698
+Profiles: People,2009-07,1609
+Profiles: People,2009-08,1681
+Profiles: People,2009-09,1740
+Profiles: People,2009-10,1661
+Profiles: People,2009-11,1637
+Profiles: People,2009-12,2411
+Profiles: People,2010-01,2175
+Profiles: People,2010-02,1731
+Profiles: People,2010-03,1967
+Profiles: People,2010-04,1675
+Profiles: People,2010-05,1950
+Profiles: People,2010-06,1834
+Profiles: People,2010-07,2112
+Profiles: People,2010-08,2763
+Profiles: People,2010-09,2357
+Profiles: People,2010-10,2640
+Profiles: People,2010-11,2272
+Profiles: People,2010-12,2062
+Profiles: People,2011-01,2457
+Profiles: People,2011-02,2551
+Profiles: People,2011-03,2727
+Profiles: People,2011-04,2390
+Profiles: People,2011-05,2531
+Profiles: People,2011-06,2793
+Profiles: People,2011-07,3071
+Profiles: People,2011-08,2844
+Profiles: People,2011-09,2528
+Profiles: People,2011-10,2407
+Profiles: People,2011-11,2331
+Profiles: People,2011-12,2080
+Profiles: People,2012-01,2080
+Profiles: People,2012-02,2163
+Profiles: People,2012-03,2830
+Profiles: People,2012-04,2850
+Profiles: People,2012-05,3002
+Profiles: People,2012-06,2776
+Profiles: People,2012-07,3510
+Profiles: People,2012-08,3070
+Profiles: People,2012-09,2618
+Profiles: People,2012-10,2778
+Profiles: People,2012-11,2874
+Profiles: People,2012-12,2518
+Profiles: People,2013-01,3308
+Profiles: People,2013-02,3612
+Profiles: People,2013-03,3727
+Profiles: People,2013-04,5077
+Profiles: People,2013-05,7577
+Profiles: People,2013-06,7407
+Profiles: People,2013-07,9242
+Profiles: People,2013-08,12443
+Profiles: People,2013-09,10844
+Profiles: People,2013-10,10873
+Profiles: People,2013-11,10299
+Profiles: People,2013-12,10865
+Profiles: People,2014-01,11202
+Profiles: People,2014-02,11950
+Profiles: People,2014-03,12596
+Profiles: People,2014-04,7791
+Profiles: People,2014-05,5290
+Profiles: People,2014-06,8548
+Profiles: People,2014-07,7541
+Profiles: People,2014-08,9492
+Profiles: People,2014-09,8666
+Profiles: People,2014-10,7993
+Profiles: People,2014-11,1916
+Profiles: Products,2007-05,2
+Profiles: Products,2007-06,42
+Profiles: Products,2007-07,157
+Profiles: Products,2007-08,177
+Profiles: Products,2007-09,46
+Profiles: Products,2007-10,65
+Profiles: Products,2007-11,101
+Profiles: Products,2007-12,127
+Profiles: Products,2008-01,112
+Profiles: Products,2008-02,454
+Profiles: Products,2008-03,296
+Profiles: Products,2008-04,195
+Profiles: Products,2008-05,407
+Profiles: Products,2008-06,296
+Profiles: Products,2008-07,352
+Profiles: Products,2008-08,194
+Profiles: Products,2008-09,139
+Profiles: Products,2008-10,713
+Profiles: Products,2008-11,651
+Profiles: Products,2008-12,893
+Profiles: Products,2009-01,719
+Profiles: Products,2009-02,598
+Profiles: Products,2009-03,596
+Profiles: Products,2009-04,501
+Profiles: Products,2009-05,477
+Profiles: Products,2009-06,847
+Profiles: Products,2009-07,404
+Profiles: Products,2009-08,148
+Profiles: Products,2009-09,117
+Profiles: Products,2009-10,204
+Profiles: Products,2009-11,163
+Profiles: Products,2009-12,188
+Profiles: Products,2010-01,176
+Profiles: Products,2010-02,143
+Profiles: Products,2010-03,271
+Profiles: Products,2010-04,226
+Profiles: Products,2010-05,183
+Profiles: Products,2010-06,185
+Profiles: Products,2010-07,229
+Profiles: Products,2010-08,293
+Profiles: Products,2010-09,200
+Profiles: Products,2010-10,391
+Profiles: Products,2010-11,209
+Profiles: Products,2010-12,343
+Profiles: Products,2011-01,235
+Profiles: Products,2011-02,307
+Profiles: Products,2011-03,247
+Profiles: Products,2011-04,241
+Profiles: Products,2011-05,366
+Profiles: Products,2011-06,382
+Profiles: Products,2011-07,329
+Profiles: Products,2011-08,217
+Profiles: Products,2011-09,236
+Profiles: Products,2011-10,215
+Profiles: Products,2011-11,230
+Profiles: Products,2011-12,247
+Profiles: Products,2012-01,286
+Profiles: Products,2012-02,279
+Profiles: Products,2012-03,303
+Profiles: Products,2012-04,365
+Profiles: Products,2012-05,415
+Profiles: Products,2012-06,326
+Profiles: Products,2012-07,575
+Profiles: Products,2012-08,401
+Profiles: Products,2012-09,253
+Profiles: Products,2012-10,290
+Profiles: Products,2012-11,313
+Profiles: Products,2012-12,385
+Profiles: Products,2013-01,379
+Profiles: Products,2013-02,295
+Profiles: Products,2013-03,593
+Profiles: Products,2013-04,500
+Profiles: Products,2013-05,495
+Profiles: Products,2013-06,613
+Profiles: Products,2013-07,636
+Profiles: Products,2013-08,633
+Profiles: Products,2013-09,499
+Profiles: Products,2013-10,630
+Profiles: Products,2013-11,495
+Profiles: Products,2013-12,597
+Profiles: Products,2014-01,687
+Profiles: Products,2014-02,724
+Profiles: Products,2014-03,639
+Profiles: Products,2014-04,753
+Profiles: Products,2014-05,1218
+Profiles: Products,2014-06,2163
+Profiles: Products,2014-07,1893
+Profiles: Products,2014-08,1838
+Profiles: Products,2014-09,1688
+Profiles: Products,2014-10,1573
+Profiles: Products,2014-11,394
+Profiles,2007-05,43
+Profiles,2007-06,297
+Profiles,2007-07,1032
+Profiles,2007-08,1500
+Profiles,2007-09,488
+Profiles,2007-10,496
+Profiles,2007-11,889
+Profiles,2007-12,979
+Profiles,2008-01,810
+Profiles,2008-02,2986
+Profiles,2008-03,2649
+Profiles,2008-04,2185
+Profiles,2008-05,3112
+Profiles,2008-06,3292
+Profiles,2008-07,3017
+Profiles,2008-08,2551
+Profiles,2008-09,2363
+Profiles,2008-10,3055
+Profiles,2008-11,4458
+Profiles,2008-12,4504
+Profiles,2009-01,4178
+Profiles,2009-02,2674
+Profiles,2009-03,2950
+Profiles,2009-04,3125
+Profiles,2009-05,3441
+Profiles,2009-06,5786
+Profiles,2009-07,4297
+Profiles,2009-08,3724
+Profiles,2009-09,3658
+Profiles,2009-10,3234
+Profiles,2009-11,3308
+Profiles,2009-12,4597
+Profiles,2010-01,4411
+Profiles,2010-02,3505
+Profiles,2010-03,4369
+Profiles,2010-04,3911
+Profiles,2010-05,3950
+Profiles,2010-06,3699
+Profiles,2010-07,4695
+Profiles,2010-08,5264
+Profiles,2010-09,4648
+Profiles,2010-10,5638
+Profiles,2010-11,4679
+Profiles,2010-12,4527
+Profiles,2011-01,4783
+Profiles,2011-02,5007
+Profiles,2011-03,5052
+Profiles,2011-04,4470
+Profiles,2011-05,4842
+Profiles,2011-06,5334
+Profiles,2011-07,5672
+Profiles,2011-08,5060
+Profiles,2011-09,4571
+Profiles,2011-10,4483
+Profiles,2011-11,4285
+Profiles,2011-12,3973
+Profiles,2012-01,3945
+Profiles,2012-02,3957
+Profiles,2012-03,5209
+Profiles,2012-04,5305
+Profiles,2012-05,5674
+Profiles,2012-06,5341
+Profiles,2012-07,6401
+Profiles,2012-08,5931
+Profiles,2012-09,5237
+Profiles,2012-10,5753
+Profiles,2012-11,5634
+Profiles,2012-12,5728
+Profiles,2013-01,6490
+Profiles,2013-02,6870
+Profiles,2013-03,7350
+Profiles,2013-04,13732
+Profiles,2013-05,21372
+Profiles,2013-06,20081
+Profiles,2013-07,19275
+Profiles,2013-08,28733
+Profiles,2013-09,18653
+Profiles,2013-10,17859
+Profiles,2013-11,17429
+Profiles,2013-12,19494
+Profiles,2014-01,20868
+Profiles,2014-02,20793
+Profiles,2014-03,21975
+Profiles,2014-04,25987
+Profiles,2014-05,12899
+Profiles,2014-06,18404
+Profiles,2014-07,19109
+Profiles,2014-08,19319
+Profiles,2014-09,19289
+Profiles,2014-10,18250
+Profiles,2014-11,4170
+Rounds: angel,2007-05,1
+Rounds: angel,2007-06,2
+Rounds: angel,2007-07,12
+Rounds: angel,2007-08,20
+Rounds: angel,2007-09,12
+Rounds: angel,2007-10,7
+Rounds: angel,2007-11,25
+Rounds: angel,2007-12,11
+Rounds: angel,2008-01,13
+Rounds: angel,2008-02,77
+Rounds: angel,2008-03,34
+Rounds: angel,2008-04,31
+Rounds: angel,2008-05,33
+Rounds: angel,2008-06,46
+Rounds: angel,2008-07,27
+Rounds: angel,2008-08,25
+Rounds: angel,2008-09,27
+Rounds: angel,2008-10,26
+Rounds: angel,2008-11,29
+Rounds: angel,2008-12,35
+Rounds: angel,2009-01,35
+Rounds: angel,2009-02,19
+Rounds: angel,2009-03,16
+Rounds: angel,2009-04,20
+Rounds: angel,2009-05,14
+Rounds: angel,2009-06,26
+Rounds: angel,2009-07,20
+Rounds: angel,2009-08,32
+Rounds: angel,2009-09,34
+Rounds: angel,2009-10,22
+Rounds: angel,2009-11,23
+Rounds: angel,2009-12,29
+Rounds: angel,2010-01,29
+Rounds: angel,2010-02,20
+Rounds: angel,2010-03,35
+Rounds: angel,2010-04,26
+Rounds: angel,2010-05,25
+Rounds: angel,2010-06,31
+Rounds: angel,2010-07,26
+Rounds: angel,2010-08,25
+Rounds: angel,2010-09,34
+Rounds: angel,2010-10,48
+Rounds: angel,2010-11,41
+Rounds: angel,2010-12,26
+Rounds: angel,2011-01,39
+Rounds: angel,2011-02,34
+Rounds: angel,2011-03,39
+Rounds: angel,2011-04,49
+Rounds: angel,2011-05,51
+Rounds: angel,2011-06,42
+Rounds: angel,2011-07,56
+Rounds: angel,2011-08,48
+Rounds: angel,2011-09,51
+Rounds: angel,2011-10,34
+Rounds: angel,2011-11,49
+Rounds: angel,2011-12,29
+Rounds: angel,2012-01,53
+Rounds: angel,2012-02,38
+Rounds: angel,2012-03,36
+Rounds: angel,2012-04,45
+Rounds: angel,2012-05,46
+Rounds: angel,2012-06,72
+Rounds: angel,2012-07,51
+Rounds: angel,2012-08,64
+Rounds: angel,2012-09,42
+Rounds: angel,2012-10,48
+Rounds: angel,2012-11,49
+Rounds: angel,2012-12,30
+Rounds: angel,2013-01,47
+Rounds: angel,2013-02,57
+Rounds: angel,2013-03,56
+Rounds: angel,2013-04,72
+Rounds: angel,2013-05,65
+Rounds: angel,2013-06,80
+Rounds: angel,2013-07,86
+Rounds: angel,2013-08,69
+Rounds: angel,2013-09,72
+Rounds: angel,2013-10,79
+Rounds: angel,2013-11,106
+Rounds: angel,2013-12,68
+Rounds: angel,2014-01,116
+Rounds: angel,2014-02,106
+Rounds: angel,2014-03,133
+Rounds: angel,2014-04,92
+Rounds: angel,2014-05,115
+Rounds: angel,2014-06,142
+Rounds: angel,2014-07,220
+Rounds: angel,2014-08,116
+Rounds: angel,2014-09,121
+Rounds: angel,2014-10,95
+Rounds: angel,2014-11,29
+Rounds: convertible_note,2008-05,1
+Rounds: convertible_note,2009-12,3
+Rounds: convertible_note,2010-02,1
+Rounds: convertible_note,2010-03,1
+Rounds: convertible_note,2010-11,1
+Rounds: convertible_note,2011-05,1
+Rounds: convertible_note,2011-06,1
+Rounds: convertible_note,2011-07,1
+Rounds: convertible_note,2011-10,1
+Rounds: convertible_note,2012-01,1
+Rounds: convertible_note,2012-04,1
+Rounds: convertible_note,2012-05,2
+Rounds: convertible_note,2012-07,2
+Rounds: convertible_note,2012-10,2
+Rounds: convertible_note,2012-11,1
+Rounds: convertible_note,2012-12,1
+Rounds: convertible_note,2013-01,2
+Rounds: convertible_note,2013-03,5
+Rounds: convertible_note,2013-05,5
+Rounds: convertible_note,2013-06,7
+Rounds: convertible_note,2013-07,25
+Rounds: convertible_note,2013-08,37
+Rounds: convertible_note,2013-09,29
+Rounds: convertible_note,2013-10,18
+Rounds: convertible_note,2013-11,45
+Rounds: convertible_note,2013-12,26
+Rounds: convertible_note,2014-01,41
+Rounds: convertible_note,2014-02,52
+Rounds: convertible_note,2014-03,41
+Rounds: convertible_note,2014-04,19
+Rounds: convertible_note,2014-05,32
+Rounds: convertible_note,2014-06,33
+Rounds: convertible_note,2014-07,120
+Rounds: convertible_note,2014-08,32
+Rounds: convertible_note,2014-09,70
+Rounds: convertible_note,2014-10,27
+Rounds: convertible_note,2014-11,4
+Rounds: debt_financing,2007-07,1
+Rounds: debt_financing,2007-08,2
+Rounds: debt_financing,2007-10,3
+Rounds: debt_financing,2007-11,2
+Rounds: debt_financing,2007-12,2
+Rounds: debt_financing,2008-01,3
+Rounds: debt_financing,2008-02,3
+Rounds: debt_financing,2008-04,1
+Rounds: debt_financing,2008-05,8
+Rounds: debt_financing,2008-06,3
+Rounds: debt_financing,2008-07,7
+Rounds: debt_financing,2008-08,7
+Rounds: debt_financing,2008-09,1
+Rounds: debt_financing,2008-10,2
+Rounds: debt_financing,2008-11,6
+Rounds: debt_financing,2008-12,5
+Rounds: debt_financing,2009-01,10
+Rounds: debt_financing,2009-02,3
+Rounds: debt_financing,2009-03,4
+Rounds: debt_financing,2009-04,8
+Rounds: debt_financing,2009-05,6
+Rounds: debt_financing,2009-06,11
+Rounds: debt_financing,2009-07,10
+Rounds: debt_financing,2009-08,7
+Rounds: debt_financing,2009-09,15
+Rounds: debt_financing,2009-10,6
+Rounds: debt_financing,2009-11,24
+Rounds: debt_financing,2009-12,66
+Rounds: debt_financing,2010-01,58
+Rounds: debt_financing,2010-02,31
+Rounds: debt_financing,2010-03,48
+Rounds: debt_financing,2010-04,39
+Rounds: debt_financing,2010-05,17
+Rounds: debt_financing,2010-06,14
+Rounds: debt_financing,2010-07,10
+Rounds: debt_financing,2010-08,9
+Rounds: debt_financing,2010-09,13
+Rounds: debt_financing,2010-10,10
+Rounds: debt_financing,2010-11,17
+Rounds: debt_financing,2010-12,10
+Rounds: debt_financing,2011-01,13
+Rounds: debt_financing,2011-02,13
+Rounds: debt_financing,2011-03,9
+Rounds: debt_financing,2011-04,8
+Rounds: debt_financing,2011-05,12
+Rounds: debt_financing,2011-06,12
+Rounds: debt_financing,2011-07,10
+Rounds: debt_financing,2011-08,14
+Rounds: debt_financing,2011-09,16
+Rounds: debt_financing,2011-10,21
+Rounds: debt_financing,2011-11,10
+Rounds: debt_financing,2011-12,19
+Rounds: debt_financing,2012-01,17
+Rounds: debt_financing,2012-02,12
+Rounds: debt_financing,2012-03,21
+Rounds: debt_financing,2012-04,20
+Rounds: debt_financing,2012-05,13
+Rounds: debt_financing,2012-06,18
+Rounds: debt_financing,2012-07,20
+Rounds: debt_financing,2012-08,18
+Rounds: debt_financing,2012-09,9
+Rounds: debt_financing,2012-10,13
+Rounds: debt_financing,2012-11,9
+Rounds: debt_financing,2012-12,7
+Rounds: debt_financing,2013-01,17
+Rounds: debt_financing,2013-02,16
+Rounds: debt_financing,2013-03,20
+Rounds: debt_financing,2013-04,15
+Rounds: debt_financing,2013-05,135
+Rounds: debt_financing,2013-06,286
+Rounds: debt_financing,2013-07,410
+Rounds: debt_financing,2013-08,342
+Rounds: debt_financing,2013-09,423
+Rounds: debt_financing,2013-10,268
+Rounds: debt_financing,2013-11,362
+Rounds: debt_financing,2013-12,411
+Rounds: debt_financing,2014-01,360
+Rounds: debt_financing,2014-02,458
+Rounds: debt_financing,2014-03,292
+Rounds: debt_financing,2014-04,141
+Rounds: debt_financing,2014-05,126
+Rounds: debt_financing,2014-06,112
+Rounds: debt_financing,2014-07,206
+Rounds: debt_financing,2014-08,133
+Rounds: debt_financing,2014-09,107
+Rounds: debt_financing,2014-10,87
+Rounds: debt_financing,2014-11,34
+Rounds: equity_crowdfunding,2012-09,2
+Rounds: equity_crowdfunding,2013-03,1
+Rounds: equity_crowdfunding,2013-04,1
+Rounds: equity_crowdfunding,2013-06,1
+Rounds: equity_crowdfunding,2013-07,2
+Rounds: equity_crowdfunding,2013-08,2
+Rounds: equity_crowdfunding,2013-09,1
+Rounds: equity_crowdfunding,2013-10,1
+Rounds: equity_crowdfunding,2013-12,6
+Rounds: equity_crowdfunding,2014-01,5
+Rounds: equity_crowdfunding,2014-02,8
+Rounds: equity_crowdfunding,2014-03,7
+Rounds: equity_crowdfunding,2014-04,7
+Rounds: equity_crowdfunding,2014-05,33
+Rounds: equity_crowdfunding,2014-06,56
+Rounds: equity_crowdfunding,2014-07,1672
+Rounds: equity_crowdfunding,2014-08,17
+Rounds: equity_crowdfunding,2014-09,294
+Rounds: equity_crowdfunding,2014-10,5
+Rounds: equity_crowdfunding,2014-11,1
+Rounds: grant,2008-01,1
+Rounds: grant,2008-06,1
+Rounds: grant,2008-07,1
+Rounds: grant,2008-10,1
+Rounds: grant,2008-11,1
+Rounds: grant,2009-04,1
+Rounds: grant,2009-06,1
+Rounds: grant,2009-07,2
+Rounds: grant,2009-08,7
+Rounds: grant,2009-09,12
+Rounds: grant,2009-10,6
+Rounds: grant,2009-11,17
+Rounds: grant,2009-12,23
+Rounds: grant,2010-01,22
+Rounds: grant,2010-02,4
+Rounds: grant,2010-03,11
+Rounds: grant,2010-04,5
+Rounds: grant,2010-05,4
+Rounds: grant,2010-06,6
+Rounds: grant,2010-07,10
+Rounds: grant,2010-08,11
+Rounds: grant,2010-09,13
+Rounds: grant,2010-10,18
+Rounds: grant,2010-11,13
+Rounds: grant,2010-12,4
+Rounds: grant,2011-01,10
+Rounds: grant,2011-02,11
+Rounds: grant,2011-03,4
+Rounds: grant,2011-04,5
+Rounds: grant,2011-05,11
+Rounds: grant,2011-06,9
+Rounds: grant,2011-07,5
+Rounds: grant,2011-08,19
+Rounds: grant,2011-09,11
+Rounds: grant,2011-10,9
+Rounds: grant,2011-11,9
+Rounds: grant,2011-12,14
+Rounds: grant,2012-01,6
+Rounds: grant,2012-02,7
+Rounds: grant,2012-03,6
+Rounds: grant,2012-04,16
+Rounds: grant,2012-05,14
+Rounds: grant,2012-06,14
+Rounds: grant,2012-07,12
+Rounds: grant,2012-08,14
+Rounds: grant,2012-09,10
+Rounds: grant,2012-10,9
+Rounds: grant,2012-11,3
+Rounds: grant,2012-12,3
+Rounds: grant,2013-01,15
+Rounds: grant,2013-02,10
+Rounds: grant,2013-03,15
+Rounds: grant,2013-04,9
+Rounds: grant,2013-05,8
+Rounds: grant,2013-06,33
+Rounds: grant,2013-07,36
+Rounds: grant,2013-08,40
+Rounds: grant,2013-09,62
+Rounds: grant,2013-10,36
+Rounds: grant,2013-11,57
+Rounds: grant,2013-12,52
+Rounds: grant,2014-01,49
+Rounds: grant,2014-02,57
+Rounds: grant,2014-03,39
+Rounds: grant,2014-04,36
+Rounds: grant,2014-05,131
+Rounds: grant,2014-06,44
+Rounds: grant,2014-07,109
+Rounds: grant,2014-08,61
+Rounds: grant,2014-09,81
+Rounds: grant,2014-10,49
+Rounds: grant,2014-11,6
+Rounds: post_ipo_debt,2009-06,1
+Rounds: post_ipo_debt,2009-07,1
+Rounds: post_ipo_debt,2009-11,1
+Rounds: post_ipo_debt,2010-01,1
+Rounds: post_ipo_debt,2010-08,1
+Rounds: post_ipo_debt,2013-04,1
+Rounds: post_ipo_debt,2013-07,1
+Rounds: post_ipo_debt,2013-12,2
+Rounds: post_ipo_debt,2014-02,5
+Rounds: post_ipo_debt,2014-03,15
+Rounds: post_ipo_debt,2014-04,7
+Rounds: post_ipo_debt,2014-05,3
+Rounds: post_ipo_debt,2014-06,6
+Rounds: post_ipo_debt,2014-07,8
+Rounds: post_ipo_debt,2014-08,6
+Rounds: post_ipo_debt,2014-09,8
+Rounds: post_ipo_debt,2014-10,9
+Rounds: post_ipo_debt,2014-11,3
+Rounds: post_ipo_equity,2007-10,1
+Rounds: post_ipo_equity,2008-08,3
+Rounds: post_ipo_equity,2008-09,1
+Rounds: post_ipo_equity,2009-06,2
+Rounds: post_ipo_equity,2009-10,1
+Rounds: post_ipo_equity,2009-11,1
+Rounds: post_ipo_equity,2009-12,3
+Rounds: post_ipo_equity,2010-01,1
+Rounds: post_ipo_equity,2010-02,2
+Rounds: post_ipo_equity,2010-10,1
+Rounds: post_ipo_equity,2010-11,1
+Rounds: post_ipo_equity,2011-02,1
+Rounds: post_ipo_equity,2012-02,3
+Rounds: post_ipo_equity,2012-03,1
+Rounds: post_ipo_equity,2012-04,3
+Rounds: post_ipo_equity,2012-05,1
+Rounds: post_ipo_equity,2012-07,1
+Rounds: post_ipo_equity,2012-09,1
+Rounds: post_ipo_equity,2012-10,2
+Rounds: post_ipo_equity,2012-11,1
+Rounds: post_ipo_equity,2012-12,1
+Rounds: post_ipo_equity,2013-01,1
+Rounds: post_ipo_equity,2013-02,1
+Rounds: post_ipo_equity,2013-03,2
+Rounds: post_ipo_equity,2013-04,1
+Rounds: post_ipo_equity,2013-05,3
+Rounds: post_ipo_equity,2013-06,7
+Rounds: post_ipo_equity,2013-07,6
+Rounds: post_ipo_equity,2013-08,14
+Rounds: post_ipo_equity,2013-09,9
+Rounds: post_ipo_equity,2013-10,10
+Rounds: post_ipo_equity,2013-11,15
+Rounds: post_ipo_equity,2013-12,10
+Rounds: post_ipo_equity,2014-01,15
+Rounds: post_ipo_equity,2014-02,35
+Rounds: post_ipo_equity,2014-03,51
+Rounds: post_ipo_equity,2014-04,19
+Rounds: post_ipo_equity,2014-05,31
+Rounds: post_ipo_equity,2014-06,31
+Rounds: post_ipo_equity,2014-07,17
+Rounds: post_ipo_equity,2014-08,31
+Rounds: post_ipo_equity,2014-09,26
+Rounds: post_ipo_equity,2014-10,19
+Rounds: post_ipo_equity,2014-11,1
+Rounds: private_equity,2007-11,1
+Rounds: private_equity,2007-12,1
+Rounds: private_equity,2008-01,1
+Rounds: private_equity,2008-05,2
+Rounds: private_equity,2008-06,1
+Rounds: private_equity,2008-07,3
+Rounds: private_equity,2008-08,1
+Rounds: private_equity,2008-09,4
+Rounds: private_equity,2008-12,5
+Rounds: private_equity,2009-01,4
+Rounds: private_equity,2009-02,2
+Rounds: private_equity,2009-03,1
+Rounds: private_equity,2009-04,2
+Rounds: private_equity,2009-05,4
+Rounds: private_equity,2009-06,18
+Rounds: private_equity,2009-07,1
+Rounds: private_equity,2009-09,5
+Rounds: private_equity,2009-10,2
+Rounds: private_equity,2009-11,6
+Rounds: private_equity,2009-12,13
+Rounds: private_equity,2010-01,14
+Rounds: private_equity,2010-02,11
+Rounds: private_equity,2010-03,13
+Rounds: private_equity,2010-04,8
+Rounds: private_equity,2010-05,7
+Rounds: private_equity,2010-06,6
+Rounds: private_equity,2010-07,15
+Rounds: private_equity,2010-08,3
+Rounds: private_equity,2010-09,3
+Rounds: private_equity,2010-10,8
+Rounds: private_equity,2010-11,6
+Rounds: private_equity,2010-12,3
+Rounds: private_equity,2011-01,10
+Rounds: private_equity,2011-02,3
+Rounds: private_equity,2011-03,7
+Rounds: private_equity,2011-04,8
+Rounds: private_equity,2011-05,2
+Rounds: private_equity,2011-06,9
+Rounds: private_equity,2011-07,13
+Rounds: private_equity,2011-08,6
+Rounds: private_equity,2011-09,9
+Rounds: private_equity,2011-10,4
+Rounds: private_equity,2011-11,6
+Rounds: private_equity,2011-12,6
+Rounds: private_equity,2012-01,7
+Rounds: private_equity,2012-02,10
+Rounds: private_equity,2012-03,6
+Rounds: private_equity,2012-04,8
+Rounds: private_equity,2012-05,7
+Rounds: private_equity,2012-06,12
+Rounds: private_equity,2012-07,9
+Rounds: private_equity,2012-08,2
+Rounds: private_equity,2012-09,6
+Rounds: private_equity,2012-10,4
+Rounds: private_equity,2012-11,11
+Rounds: private_equity,2012-12,9
+Rounds: private_equity,2013-01,23
+Rounds: private_equity,2013-02,24
+Rounds: private_equity,2013-03,29
+Rounds: private_equity,2013-04,33
+Rounds: private_equity,2013-05,83
+Rounds: private_equity,2013-06,97
+Rounds: private_equity,2013-07,137
+Rounds: private_equity,2013-08,137
+Rounds: private_equity,2013-09,147
+Rounds: private_equity,2013-10,146
+Rounds: private_equity,2013-11,42
+Rounds: private_equity,2013-12,40
+Rounds: private_equity,2014-01,44
+Rounds: private_equity,2014-02,52
+Rounds: private_equity,2014-03,36
+Rounds: private_equity,2014-04,46
+Rounds: private_equity,2014-05,74
+Rounds: private_equity,2014-06,72
+Rounds: private_equity,2014-07,40
+Rounds: private_equity,2014-08,41
+Rounds: private_equity,2014-09,46
+Rounds: private_equity,2014-10,58
+Rounds: private_equity,2014-11,6
+Rounds: product_crowdfunding,2011-01,1
+Rounds: product_crowdfunding,2011-08,1
+Rounds: product_crowdfunding,2012-07,1
+Rounds: product_crowdfunding,2012-08,1
+Rounds: product_crowdfunding,2012-10,1
+Rounds: product_crowdfunding,2012-12,2
+Rounds: product_crowdfunding,2013-05,2
+Rounds: product_crowdfunding,2013-06,3
+Rounds: product_crowdfunding,2013-07,6
+Rounds: product_crowdfunding,2013-08,15
+Rounds: product_crowdfunding,2013-09,31
+Rounds: product_crowdfunding,2013-10,14
+Rounds: product_crowdfunding,2013-11,13
+Rounds: product_crowdfunding,2013-12,16
+Rounds: product_crowdfunding,2014-01,25
+Rounds: product_crowdfunding,2014-02,10
+Rounds: product_crowdfunding,2014-03,7
+Rounds: product_crowdfunding,2014-04,4
+Rounds: product_crowdfunding,2014-05,13
+Rounds: product_crowdfunding,2014-06,11
+Rounds: product_crowdfunding,2014-07,14
+Rounds: product_crowdfunding,2014-08,13
+Rounds: product_crowdfunding,2014-09,13
+Rounds: product_crowdfunding,2014-10,10
+Rounds: product_crowdfunding,2014-11,2
+Rounds: secondary_market,2009-09,1
+Rounds: secondary_market,2010-07,1
+Rounds: secondary_market,2011-09,1
+Rounds: secondary_market,2013-12,17
+Rounds: secondary_market,2014-01,3
+Rounds: secondary_market,2014-02,1
+Rounds: secondary_market,2014-03,2
+Rounds: secondary_market,2014-04,4
+Rounds: secondary_market,2014-05,5
+Rounds: secondary_market,2014-06,1
+Rounds: secondary_market,2014-07,2
+Rounds: secondary_market,2014-08,5
+Rounds: secondary_market,2014-09,4
+Rounds: secondary_market,2014-10,5
+Rounds: secondary_market,2014-11,1
+Rounds: seed,2007-06,5
+Rounds: seed,2007-07,12
+Rounds: seed,2007-08,26
+Rounds: seed,2007-09,6
+Rounds: seed,2007-10,6
+Rounds: seed,2007-11,23
+Rounds: seed,2007-12,15
+Rounds: seed,2008-01,13
+Rounds: seed,2008-02,64
+Rounds: seed,2008-03,57
+Rounds: seed,2008-04,35
+Rounds: seed,2008-05,36
+Rounds: seed,2008-06,64
+Rounds: seed,2008-07,55
+Rounds: seed,2008-08,59
+Rounds: seed,2008-09,45
+Rounds: seed,2008-10,41
+Rounds: seed,2008-11,49
+Rounds: seed,2008-12,45
+Rounds: seed,2009-01,49
+Rounds: seed,2009-02,36
+Rounds: seed,2009-03,74
+Rounds: seed,2009-04,50
+Rounds: seed,2009-05,59
+Rounds: seed,2009-06,60
+Rounds: seed,2009-07,43
+Rounds: seed,2009-08,83
+Rounds: seed,2009-09,89
+Rounds: seed,2009-10,61
+Rounds: seed,2009-11,52
+Rounds: seed,2009-12,59
+Rounds: seed,2010-01,50
+Rounds: seed,2010-02,62
+Rounds: seed,2010-03,76
+Rounds: seed,2010-04,74
+Rounds: seed,2010-05,77
+Rounds: seed,2010-06,74
+Rounds: seed,2010-07,79
+Rounds: seed,2010-08,97
+Rounds: seed,2010-09,80
+Rounds: seed,2010-10,88
+Rounds: seed,2010-11,88
+Rounds: seed,2010-12,69
+Rounds: seed,2011-01,71
+Rounds: seed,2011-02,89
+Rounds: seed,2011-03,133
+Rounds: seed,2011-04,106
+Rounds: seed,2011-05,122
+Rounds: seed,2011-06,133
+Rounds: seed,2011-07,130
+Rounds: seed,2011-08,115
+Rounds: seed,2011-09,125
+Rounds: seed,2011-10,113
+Rounds: seed,2011-11,137
+Rounds: seed,2011-12,107
+Rounds: seed,2012-01,124
+Rounds: seed,2012-02,135
+Rounds: seed,2012-03,142
+Rounds: seed,2012-04,130
+Rounds: seed,2012-05,220
+Rounds: seed,2012-06,144
+Rounds: seed,2012-07,159
+Rounds: seed,2012-08,197
+Rounds: seed,2012-09,181
+Rounds: seed,2012-10,162
+Rounds: seed,2012-11,183
+Rounds: seed,2012-12,147
+Rounds: seed,2013-01,182
+Rounds: seed,2013-02,253
+Rounds: seed,2013-03,289
+Rounds: seed,2013-04,202
+Rounds: seed,2013-05,457
+Rounds: seed,2013-06,479
+Rounds: seed,2013-07,736
+Rounds: seed,2013-08,633
+Rounds: seed,2013-09,737
+Rounds: seed,2013-10,716
+Rounds: seed,2013-11,585
+Rounds: seed,2013-12,341
+Rounds: seed,2014-01,518
+Rounds: seed,2014-02,919
+Rounds: seed,2014-03,1372
+Rounds: seed,2014-04,646
+Rounds: seed,2014-05,1405
+Rounds: seed,2014-06,823
+Rounds: seed,2014-07,740
+Rounds: seed,2014-08,907
+Rounds: seed,2014-09,1161
+Rounds: seed,2014-10,814
+Rounds: seed,2014-11,153
+Rounds: undisclosed,2007-10,1
+Rounds: undisclosed,2008-03,1
+Rounds: undisclosed,2008-04,2
+Rounds: undisclosed,2008-05,4
+Rounds: undisclosed,2008-06,10
+Rounds: undisclosed,2008-07,5
+Rounds: undisclosed,2008-08,10
+Rounds: undisclosed,2008-09,6
+Rounds: undisclosed,2008-10,3
+Rounds: undisclosed,2008-11,4
+Rounds: undisclosed,2008-12,6
+Rounds: undisclosed,2009-01,13
+Rounds: undisclosed,2009-02,1
+Rounds: undisclosed,2009-03,6
+Rounds: undisclosed,2009-04,4
+Rounds: undisclosed,2009-05,9
+Rounds: undisclosed,2009-06,26
+Rounds: undisclosed,2009-07,31
+Rounds: undisclosed,2009-08,15
+Rounds: undisclosed,2009-09,34
+Rounds: undisclosed,2009-10,8
+Rounds: undisclosed,2009-11,23
+Rounds: undisclosed,2009-12,24
+Rounds: undisclosed,2010-01,41
+Rounds: undisclosed,2010-02,30
+Rounds: undisclosed,2010-03,24
+Rounds: undisclosed,2010-04,19
+Rounds: undisclosed,2010-05,3
+Rounds: undisclosed,2010-06,15
+Rounds: undisclosed,2010-07,8
+Rounds: undisclosed,2010-08,9
+Rounds: undisclosed,2010-09,11
+Rounds: undisclosed,2010-10,31
+Rounds: undisclosed,2010-11,23
+Rounds: undisclosed,2010-12,25
+Rounds: undisclosed,2011-01,19
+Rounds: undisclosed,2011-02,26
+Rounds: undisclosed,2011-03,26
+Rounds: undisclosed,2011-04,23
+Rounds: undisclosed,2011-05,26
+Rounds: undisclosed,2011-06,35
+Rounds: undisclosed,2011-07,37
+Rounds: undisclosed,2011-08,38
+Rounds: undisclosed,2011-09,42
+Rounds: undisclosed,2011-10,35
+Rounds: undisclosed,2011-11,23
+Rounds: undisclosed,2011-12,14
+Rounds: undisclosed,2012-01,21
+Rounds: undisclosed,2012-02,32
+Rounds: undisclosed,2012-03,26
+Rounds: undisclosed,2012-04,37
+Rounds: undisclosed,2012-05,29
+Rounds: undisclosed,2012-06,64
+Rounds: undisclosed,2012-07,22
+Rounds: undisclosed,2012-08,32
+Rounds: undisclosed,2012-09,31
+Rounds: undisclosed,2012-10,24
+Rounds: undisclosed,2012-11,14
+Rounds: undisclosed,2012-12,7
+Rounds: undisclosed,2013-01,34
+Rounds: undisclosed,2013-02,33
+Rounds: undisclosed,2013-03,20
+Rounds: undisclosed,2013-04,33
+Rounds: undisclosed,2013-05,53
+Rounds: undisclosed,2013-06,58
+Rounds: undisclosed,2013-07,69
+Rounds: undisclosed,2013-08,89
+Rounds: undisclosed,2013-09,72
+Rounds: undisclosed,2013-10,103
+Rounds: undisclosed,2013-11,49
+Rounds: undisclosed,2013-12,61
+Rounds: undisclosed,2014-01,108
+Rounds: undisclosed,2014-02,127
+Rounds: undisclosed,2014-03,298
+Rounds: undisclosed,2014-04,168
+Rounds: undisclosed,2014-05,171
+Rounds: undisclosed,2014-06,156
+Rounds: undisclosed,2014-07,309
+Rounds: undisclosed,2014-08,246
+Rounds: undisclosed,2014-09,167
+Rounds: undisclosed,2014-10,142
+Rounds: undisclosed,2014-11,8
+Rounds: venture,2007-05,5
+Rounds: venture,2007-06,52
+Rounds: venture,2007-07,156
+Rounds: venture,2007-08,210
+Rounds: venture,2007-09,65
+Rounds: venture,2007-10,58
+Rounds: venture,2007-11,144
+Rounds: venture,2007-12,128
+Rounds: venture,2008-01,131
+Rounds: venture,2008-02,137
+Rounds: venture,2008-03,135
+Rounds: venture,2008-04,120
+Rounds: venture,2008-05,184
+Rounds: venture,2008-06,195
+Rounds: venture,2008-07,131
+Rounds: venture,2008-08,129
+Rounds: venture,2008-09,100
+Rounds: venture,2008-10,116
+Rounds: venture,2008-11,108
+Rounds: venture,2008-12,219
+Rounds: venture,2009-01,461
+Rounds: venture,2009-02,106
+Rounds: venture,2009-03,149
+Rounds: venture,2009-04,187
+Rounds: venture,2009-05,305
+Rounds: venture,2009-06,606
+Rounds: venture,2009-07,586
+Rounds: venture,2009-08,281
+Rounds: venture,2009-09,399
+Rounds: venture,2009-10,237
+Rounds: venture,2009-11,299
+Rounds: venture,2009-12,615
+Rounds: venture,2010-01,595
+Rounds: venture,2010-02,550
+Rounds: venture,2010-03,880
+Rounds: venture,2010-04,1160
+Rounds: venture,2010-05,566
+Rounds: venture,2010-06,455
+Rounds: venture,2010-07,607
+Rounds: venture,2010-08,412
+Rounds: venture,2010-09,418
+Rounds: venture,2010-10,823
+Rounds: venture,2010-11,318
+Rounds: venture,2010-12,231
+Rounds: venture,2011-01,273
+Rounds: venture,2011-02,242
+Rounds: venture,2011-03,252
+Rounds: venture,2011-04,227
+Rounds: venture,2011-05,261
+Rounds: venture,2011-06,295
+Rounds: venture,2011-07,248
+Rounds: venture,2011-08,285
+Rounds: venture,2011-09,269
+Rounds: venture,2011-10,257
+Rounds: venture,2011-11,243
+Rounds: venture,2011-12,228
+Rounds: venture,2012-01,289
+Rounds: venture,2012-02,241
+Rounds: venture,2012-03,235
+Rounds: venture,2012-04,282
+Rounds: venture,2012-05,279
+Rounds: venture,2012-06,275
+Rounds: venture,2012-07,271
+Rounds: venture,2012-08,228
+Rounds: venture,2012-09,251
+Rounds: venture,2012-10,229
+Rounds: venture,2012-11,233
+Rounds: venture,2012-12,162
+Rounds: venture,2013-01,268
+Rounds: venture,2013-02,218
+Rounds: venture,2013-03,202
+Rounds: venture,2013-04,256
+Rounds: venture,2013-05,576
+Rounds: venture,2013-06,786
+Rounds: venture,2013-07,1040
+Rounds: venture,2013-08,1032
+Rounds: venture,2013-09,1074
+Rounds: venture,2013-10,1187
+Rounds: venture,2013-11,1528
+Rounds: venture,2013-12,1649
+Rounds: venture,2014-01,1882
+Rounds: venture,2014-02,1826
+Rounds: venture,2014-03,1405
+Rounds: venture,2014-04,880
+Rounds: venture,2014-05,986
+Rounds: venture,2014-06,1227
+Rounds: venture,2014-07,1062
+Rounds: venture,2014-08,741
+Rounds: venture,2014-09,740
+Rounds: venture,2014-10,647
+Rounds: venture,2014-11,184
+Rounds,2007-05,6
+Rounds,2007-06,59
+Rounds,2007-07,181
+Rounds,2007-08,258
+Rounds,2007-09,83
+Rounds,2007-10,76
+Rounds,2007-11,195
+Rounds,2007-12,157
+Rounds,2008-01,162
+Rounds,2008-02,281
+Rounds,2008-03,227
+Rounds,2008-04,189
+Rounds,2008-05,268
+Rounds,2008-06,320
+Rounds,2008-07,229
+Rounds,2008-08,234
+Rounds,2008-09,184
+Rounds,2008-10,189
+Rounds,2008-11,197
+Rounds,2008-12,315
+Rounds,2009-01,572
+Rounds,2009-02,167
+Rounds,2009-03,250
+Rounds,2009-04,272
+Rounds,2009-05,397
+Rounds,2009-06,751
+Rounds,2009-07,694
+Rounds,2009-08,425
+Rounds,2009-09,589
+Rounds,2009-10,343
+Rounds,2009-11,446
+Rounds,2009-12,835
+Rounds,2010-01,811
+Rounds,2010-02,711
+Rounds,2010-03,1088
+Rounds,2010-04,1331
+Rounds,2010-05,699
+Rounds,2010-06,601
+Rounds,2010-07,756
+Rounds,2010-08,567
+Rounds,2010-09,572
+Rounds,2010-10,1027
+Rounds,2010-11,508
+Rounds,2010-12,368
+Rounds,2011-01,436
+Rounds,2011-02,419
+Rounds,2011-03,470
+Rounds,2011-04,426
+Rounds,2011-05,486
+Rounds,2011-06,536
+Rounds,2011-07,500
+Rounds,2011-08,526
+Rounds,2011-09,524
+Rounds,2011-10,474
+Rounds,2011-11,477
+Rounds,2011-12,417
+Rounds,2012-01,518
+Rounds,2012-02,478
+Rounds,2012-03,473
+Rounds,2012-04,542
+Rounds,2012-05,611
+Rounds,2012-06,599
+Rounds,2012-07,548
+Rounds,2012-08,556
+Rounds,2012-09,533
+Rounds,2012-10,494
+Rounds,2012-11,504
+Rounds,2012-12,369
+Rounds,2013-01,589
+Rounds,2013-02,612
+Rounds,2013-03,639
+Rounds,2013-04,623
+Rounds,2013-05,1387
+Rounds,2013-06,1837
+Rounds,2013-07,2554
+Rounds,2013-08,2410
+Rounds,2013-09,2657
+Rounds,2013-10,2578
+Rounds,2013-11,2802
+Rounds,2013-12,2699
+Rounds,2014-01,3166
+Rounds,2014-02,3656
+Rounds,2014-03,3698
+Rounds,2014-04,2069
+Rounds,2014-05,3125
+Rounds,2014-06,2714
+Rounds,2014-07,4519
+Rounds,2014-08,2349
+Rounds,2014-09,2838
+Rounds,2014-10,1967
+Rounds,2014-11,432
+Acquisitions,1960-01,1
+Acquisitions,1960-12,1
+Acquisitions,1967-04,1
+Acquisitions,1973-01,1
+Acquisitions,1977-01,1
+Acquisitions,1980-01,1
+Acquisitions,1981-01,2
+Acquisitions,1982-08,1
+Acquisitions,1984-06,1
+Acquisitions,1984-09,1
+Acquisitions,1986-01,1
+Acquisitions,1986-07,1
+Acquisitions,1987-06,4
+Acquisitions,1988-01,2
+Acquisitions,1988-03,1
+Acquisitions,1988-06,2
+Acquisitions,1988-07,1
+Acquisitions,1988-12,1
+Acquisitions,1989-01,2
+Acquisitions,1989-04,1
+Acquisitions,1990-03,1
+Acquisitions,1990-06,1
+Acquisitions,1991-01,2
+Acquisitions,1991-03,1
+Acquisitions,1991-08,2
+Acquisitions,1991-12,1
+Acquisitions,1992-01,2
+Acquisitions,1992-03,1
+Acquisitions,1992-06,2
+Acquisitions,1993-02,1
+Acquisitions,1993-03,1
+Acquisitions,1993-04,1
+Acquisitions,1993-05,2
+Acquisitions,1993-06,1
+Acquisitions,1993-07,1
+Acquisitions,1993-08,1
+Acquisitions,1993-09,3
+Acquisitions,1994-07,1
+Acquisitions,1994-08,1
+Acquisitions,1994-09,1
+Acquisitions,1994-10,2
+Acquisitions,1994-11,4
+Acquisitions,1994-12,2
+Acquisitions,1995-01,6
+Acquisitions,1995-02,1
+Acquisitions,1995-04,1
+Acquisitions,1995-05,1
+Acquisitions,1995-06,1
+Acquisitions,1995-07,2
+Acquisitions,1995-08,3
+Acquisitions,1995-09,2
+Acquisitions,1995-10,3
+Acquisitions,1995-11,2
+Acquisitions,1995-12,2
+Acquisitions,1996-01,9
+Acquisitions,1996-02,2
+Acquisitions,1996-03,2
+Acquisitions,1996-04,4
+Acquisitions,1996-05,1
+Acquisitions,1996-06,4
+Acquisitions,1996-07,2
+Acquisitions,1996-08,4
+Acquisitions,1996-10,1
+Acquisitions,1996-11,2
+Acquisitions,1996-12,2
+Acquisitions,1997-01,5
+Acquisitions,1997-02,1
+Acquisitions,1997-03,3
+Acquisitions,1997-04,3
+Acquisitions,1997-06,7
+Acquisitions,1997-07,3
+Acquisitions,1997-08,2
+Acquisitions,1997-09,7
+Acquisitions,1997-10,1
+Acquisitions,1997-11,3
+Acquisitions,1997-12,5
+Acquisitions,1998-01,7
+Acquisitions,1998-02,1
+Acquisitions,1998-03,4
+Acquisitions,1998-04,3
+Acquisitions,1998-05,1
+Acquisitions,1998-06,5
+Acquisitions,1998-07,4
+Acquisitions,1998-08,5
+Acquisitions,1998-09,5
+Acquisitions,1998-10,5
+Acquisitions,1998-11,2
+Acquisitions,1998-12,6
+Acquisitions,1999-01,12
+Acquisitions,1999-02,5
+Acquisitions,1999-03,5
+Acquisitions,1999-04,11
+Acquisitions,1999-05,7
+Acquisitions,1999-06,13
+Acquisitions,1999-07,7
+Acquisitions,1999-08,7
+Acquisitions,1999-09,10
+Acquisitions,1999-10,8
+Acquisitions,1999-11,8
+Acquisitions,1999-12,9
+Acquisitions,2000-01,19
+Acquisitions,2000-02,7
+Acquisitions,2000-03,15
+Acquisitions,2000-04,7
+Acquisitions,2000-05,2
+Acquisitions,2000-06,10
+Acquisitions,2000-07,6
+Acquisitions,2000-08,8
+Acquisitions,2000-09,7
+Acquisitions,2000-10,4
+Acquisitions,2000-11,5
+Acquisitions,2000-12,6
+Acquisitions,2001-01,9
+Acquisitions,2001-02,9
+Acquisitions,2001-03,11
+Acquisitions,2001-04,5
+Acquisitions,2001-05,8
+Acquisitions,2001-06,5
+Acquisitions,2001-07,8
+Acquisitions,2001-08,2
+Acquisitions,2001-09,5
+Acquisitions,2001-10,2
+Acquisitions,2001-12,3
+Acquisitions,2002-01,12
+Acquisitions,2002-02,5
+Acquisitions,2002-03,1
+Acquisitions,2002-04,6
+Acquisitions,2002-05,5
+Acquisitions,2002-06,10
+Acquisitions,2002-07,5
+Acquisitions,2002-08,4
+Acquisitions,2002-09,8
+Acquisitions,2002-10,9
+Acquisitions,2002-11,2
+Acquisitions,2002-12,4
+Acquisitions,2003-01,12
+Acquisitions,2003-02,5
+Acquisitions,2003-03,3
+Acquisitions,2003-04,6
+Acquisitions,2003-05,4
+Acquisitions,2003-06,3
+Acquisitions,2003-07,10
+Acquisitions,2003-08,8
+Acquisitions,2003-09,8
+Acquisitions,2003-10,9
+Acquisitions,2003-11,6
+Acquisitions,2003-12,2
+Acquisitions,2004-01,22
+Acquisitions,2004-02,6
+Acquisitions,2004-03,18
+Acquisitions,2004-04,7
+Acquisitions,2004-05,10
+Acquisitions,2004-06,8
+Acquisitions,2004-07,11
+Acquisitions,2004-08,7
+Acquisitions,2004-09,13
+Acquisitions,2004-10,17
+Acquisitions,2004-11,9
+Acquisitions,2004-12,11
+Acquisitions,2005-01,24
+Acquisitions,2005-02,15
+Acquisitions,2005-03,16
+Acquisitions,2005-04,14
+Acquisitions,2005-05,12
+Acquisitions,2005-06,17
+Acquisitions,2005-07,20
+Acquisitions,2005-08,19
+Acquisitions,2005-09,18
+Acquisitions,2005-10,13
+Acquisitions,2005-11,15
+Acquisitions,2005-12,19
+Acquisitions,2006-01,51
+Acquisitions,2006-02,17
+Acquisitions,2006-03,18
+Acquisitions,2006-04,23
+Acquisitions,2006-05,19
+Acquisitions,2006-06,22
+Acquisitions,2006-07,17
+Acquisitions,2006-08,22
+Acquisitions,2006-09,21
+Acquisitions,2006-10,29
+Acquisitions,2006-11,27
+Acquisitions,2006-12,23
+Acquisitions,2007-01,44
+Acquisitions,2007-02,27
+Acquisitions,2007-03,37
+Acquisitions,2007-04,32
+Acquisitions,2007-05,51
+Acquisitions,2007-06,42
+Acquisitions,2007-07,45
+Acquisitions,2007-08,40
+Acquisitions,2007-09,34
+Acquisitions,2007-10,48
+Acquisitions,2007-11,32
+Acquisitions,2007-12,39
+Acquisitions,2008-01,86
+Acquisitions,2008-02,49
+Acquisitions,2008-03,54
+Acquisitions,2008-04,92
+Acquisitions,2008-05,143
+Acquisitions,2008-06,75
+Acquisitions,2008-07,147
+Acquisitions,2008-08,92
+Acquisitions,2008-09,120
+Acquisitions,2008-10,95
+Acquisitions,2008-11,68
+Acquisitions,2008-12,78
+Acquisitions,2009-01,128
+Acquisitions,2009-02,81
+Acquisitions,2009-03,75
+Acquisitions,2009-04,100
+Acquisitions,2009-05,60
+Acquisitions,2009-06,87
+Acquisitions,2009-07,94
+Acquisitions,2009-08,76
+Acquisitions,2009-09,91
+Acquisitions,2009-10,108
+Acquisitions,2009-11,121
+Acquisitions,2009-12,148
+Acquisitions,2010-01,177
+Acquisitions,2010-02,119
+Acquisitions,2010-03,134
+Acquisitions,2010-04,117
+Acquisitions,2010-05,131
+Acquisitions,2010-06,162
+Acquisitions,2010-07,97
+Acquisitions,2010-08,96
+Acquisitions,2010-09,151
+Acquisitions,2010-10,124
+Acquisitions,2010-11,108
+Acquisitions,2010-12,152
+Acquisitions,2011-01,245
+Acquisitions,2011-02,130
+Acquisitions,2011-03,142
+Acquisitions,2011-04,140
+Acquisitions,2011-05,141
+Acquisitions,2011-06,168
+Acquisitions,2011-07,178
+Acquisitions,2011-08,150
+Acquisitions,2011-09,138
+Acquisitions,2011-10,114
+Acquisitions,2011-11,118
+Acquisitions,2011-12,138
+Acquisitions,2012-01,173
+Acquisitions,2012-02,129
+Acquisitions,2012-03,131
+Acquisitions,2012-04,117
+Acquisitions,2012-05,139
+Acquisitions,2012-06,122
+Acquisitions,2012-07,125
+Acquisitions,2012-08,124
+Acquisitions,2012-09,126
+Acquisitions,2012-10,132
+Acquisitions,2012-11,125
+Acquisitions,2012-12,113
+Acquisitions,2013-01,168
+Acquisitions,2013-02,114
+Acquisitions,2013-03,108
+Acquisitions,2013-04,96
+Acquisitions,2013-05,173
+Acquisitions,2013-06,148
+Acquisitions,2013-07,145
+Acquisitions,2013-08,142
+Acquisitions,2013-09,158
+Acquisitions,2013-10,179
+Acquisitions,2013-11,154
+Acquisitions,2013-12,189
+Acquisitions,2014-01,209
+Acquisitions,2014-02,174
+Acquisitions,2014-03,176
+Acquisitions,2014-04,200
+Acquisitions,2014-05,203
+Acquisitions,2014-06,260
+Acquisitions,2014-07,248
+Acquisitions,2014-08,201
+Acquisitions,2014-09,240
+Acquisitions,2014-10,241
+Acquisitions,2014-11,45
+IPOs,1961-01,1
+IPOs,1965-01,1
+IPOs,1969-06,1
+IPOs,1971-01,1
+IPOs,1977-05,1
+IPOs,1978-01,271
+IPOs,1978-02,2
+IPOs,1978-04,2
+IPOs,1978-05,1
+IPOs,1978-06,8
+IPOs,1978-07,1
+IPOs,1979-01,2
+IPOs,1979-06,2
+IPOs,1979-08,1
+IPOs,1979-11,1
+IPOs,1979-12,1
+IPOs,1980-03,1
+IPOs,1980-04,1
+IPOs,1980-06,3
+IPOs,1980-08,1
+IPOs,1980-10,1
+IPOs,1980-11,1
+IPOs,1980-12,2
+IPOs,1981-01,2
+IPOs,1981-02,1
+IPOs,1981-03,1
+IPOs,1981-04,3
+IPOs,1981-05,4
+IPOs,1981-06,2
+IPOs,1981-07,5
+IPOs,1981-08,2
+IPOs,1981-09,1
+IPOs,1981-10,1
+IPOs,1981-11,2
+IPOs,1981-12,2
+IPOs,1982-01,3
+IPOs,1982-02,3
+IPOs,1982-04,2
+IPOs,1982-05,1
+IPOs,1982-06,1
+IPOs,1982-09,1
+IPOs,1982-10,1
+IPOs,1982-12,1
+IPOs,1983-01,2
+IPOs,1983-03,1
+IPOs,1983-04,1
+IPOs,1983-05,2
+IPOs,1983-07,4
+IPOs,1983-08,4
+IPOs,1983-09,3
+IPOs,1983-10,4
+IPOs,1983-11,1
+IPOs,1983-12,8
+IPOs,1984-01,5
+IPOs,1984-02,3
+IPOs,1984-03,3
+IPOs,1984-04,2
+IPOs,1984-05,2
+IPOs,1984-06,4
+IPOs,1984-07,2
+IPOs,1984-08,3
+IPOs,1984-10,1
+IPOs,1984-12,2
+IPOs,1985-02,1
+IPOs,1985-03,1
+IPOs,1985-04,1
+IPOs,1985-05,3
+IPOs,1985-06,2
+IPOs,1985-07,1
+IPOs,1985-08,4
+IPOs,1985-09,3
+IPOs,1985-10,3
+IPOs,1985-11,1
+IPOs,1985-12,2
+IPOs,1986-01,1
+IPOs,1986-02,3
+IPOs,1986-03,2
+IPOs,1986-04,5
+IPOs,1986-05,5
+IPOs,1986-06,4
+IPOs,1986-07,5
+IPOs,1986-08,6
+IPOs,1986-09,5
+IPOs,1986-10,1
+IPOs,1986-11,5
+IPOs,1986-12,4
+IPOs,1987-01,2
+IPOs,1987-02,3
+IPOs,1987-03,1
+IPOs,1987-04,4
+IPOs,1987-05,2
+IPOs,1987-06,8
+IPOs,1987-07,3
+IPOs,1987-08,9
+IPOs,1987-09,2
+IPOs,1987-10,3
+IPOs,1987-12,2
+IPOs,1988-02,1
+IPOs,1988-03,1
+IPOs,1988-04,3
+IPOs,1988-06,2
+IPOs,1988-07,4
+IPOs,1988-08,3
+IPOs,1988-09,1
+IPOs,1988-10,7
+IPOs,1988-11,2
+IPOs,1989-01,2
+IPOs,1989-02,2
+IPOs,1989-03,1
+IPOs,1989-04,1
+IPOs,1989-05,1
+IPOs,1989-06,3
+IPOs,1989-07,1
+IPOs,1989-08,1
+IPOs,1989-09,1
+IPOs,1989-10,4
+IPOs,1989-11,4
+IPOs,1989-12,2
+IPOs,1990-01,23
+IPOs,1990-02,2
+IPOs,1990-03,12
+IPOs,1990-04,2
+IPOs,1990-05,6
+IPOs,1990-06,2
+IPOs,1990-07,5
+IPOs,1990-08,2
+IPOs,1990-10,2
+IPOs,1990-11,1
+IPOs,1990-12,4
+IPOs,1991-01,5
+IPOs,1991-02,1
+IPOs,1991-03,3
+IPOs,1991-04,4
+IPOs,1991-05,4
+IPOs,1991-06,3
+IPOs,1991-07,3
+IPOs,1991-08,4
+IPOs,1991-09,2
+IPOs,1991-10,2
+IPOs,1991-11,5
+IPOs,1991-12,5
+IPOs,1992-01,11
+IPOs,1992-02,6
+IPOs,1992-03,7
+IPOs,1992-04,2
+IPOs,1992-05,8
+IPOs,1992-06,11
+IPOs,1992-07,2
+IPOs,1992-08,5
+IPOs,1992-09,2
+IPOs,1992-10,7
+IPOs,1992-11,7
+IPOs,1992-12,8
+IPOs,1993-01,5
+IPOs,1993-02,4
+IPOs,1993-03,7
+IPOs,1993-04,9
+IPOs,1993-05,6
+IPOs,1993-06,5
+IPOs,1993-07,6
+IPOs,1993-08,6
+IPOs,1993-09,4
+IPOs,1993-10,8
+IPOs,1993-11,13
+IPOs,1993-12,12
+IPOs,1994-01,10
+IPOs,1994-02,5
+IPOs,1994-03,13
+IPOs,1994-04,6
+IPOs,1994-05,3
+IPOs,1994-06,4
+IPOs,1994-07,7
+IPOs,1994-08,3
+IPOs,1994-09,3
+IPOs,1994-10,5
+IPOs,1994-11,10
+IPOs,1994-12,7
+IPOs,1995-01,8
+IPOs,1995-02,5
+IPOs,1995-03,5
+IPOs,1995-04,4
+IPOs,1995-05,3
+IPOs,1995-06,9
+IPOs,1995-07,5
+IPOs,1995-08,6
+IPOs,1995-09,4
+IPOs,1995-10,8
+IPOs,1995-11,15
+IPOs,1995-12,13
+IPOs,1996-01,15
+IPOs,1996-02,6
+IPOs,1996-03,6
+IPOs,1996-04,9
+IPOs,1996-05,14
+IPOs,1996-06,9
+IPOs,1996-07,9
+IPOs,1996-08,9
+IPOs,1996-09,4
+IPOs,1996-10,12
+IPOs,1996-11,13
+IPOs,1996-12,9
+IPOs,1997-01,38
+IPOs,1997-02,50
+IPOs,1997-03,32
+IPOs,1997-04,28
+IPOs,1997-05,28
+IPOs,1997-06,52
+IPOs,1997-07,53
+IPOs,1997-08,10
+IPOs,1997-09,6
+IPOs,1997-10,72
+IPOs,1997-11,81
+IPOs,1997-12,39
+IPOs,1998-01,22
+IPOs,1998-02,7
+IPOs,1998-03,38
+IPOs,1998-04,46
+IPOs,1998-05,50
+IPOs,1998-06,56
+IPOs,1998-07,55
+IPOs,1998-08,25
+IPOs,1998-09,8
+IPOs,1998-10,7
+IPOs,1998-11,18
+IPOs,1998-12,33
+IPOs,1999-01,24
+IPOs,1999-02,41
+IPOs,1999-03,25
+IPOs,1999-04,68
+IPOs,1999-05,26
+IPOs,1999-06,70
+IPOs,1999-07,66
+IPOs,1999-08,47
+IPOs,1999-09,42
+IPOs,1999-10,64
+IPOs,1999-11,11
+IPOs,1999-12,48
+IPOs,2000-01,56
+IPOs,2000-02,11
+IPOs,2000-03,8
+IPOs,2000-04,20
+IPOs,2000-05,4
+IPOs,2000-06,26
+IPOs,2000-07,19
+IPOs,2000-08,18
+IPOs,2000-09,21
+IPOs,2000-10,13
+IPOs,2000-11,5
+IPOs,2000-12,9
+IPOs,2001-01,8
+IPOs,2001-02,14
+IPOs,2001-03,11
+IPOs,2001-04,6
+IPOs,2001-05,3
+IPOs,2001-06,22
+IPOs,2001-07,10
+IPOs,2001-08,11
+IPOs,2001-09,5
+IPOs,2001-10,16
+IPOs,2001-11,18
+IPOs,2001-12,23
+IPOs,2002-01,10
+IPOs,2002-02,12
+IPOs,2002-03,10
+IPOs,2002-04,12
+IPOs,2002-05,18
+IPOs,2002-06,29
+IPOs,2002-07,13
+IPOs,2002-08,6
+IPOs,2002-09,4
+IPOs,2002-10,12
+IPOs,2002-11,14
+IPOs,2002-12,14
+IPOs,2003-01,79
+IPOs,2003-02,5
+IPOs,2003-03,7
+IPOs,2003-04,3
+IPOs,2003-05,6
+IPOs,2003-06,6
+IPOs,2003-07,18
+IPOs,2003-08,10
+IPOs,2003-09,15
+IPOs,2003-10,23
+IPOs,2003-11,23
+IPOs,2003-12,25
+IPOs,2004-01,9
+IPOs,2004-02,19
+IPOs,2004-03,17
+IPOs,2004-04,22
+IPOs,2004-05,17
+IPOs,2004-06,39
+IPOs,2004-07,37
+IPOs,2004-08,25
+IPOs,2004-09,23
+IPOs,2004-10,39
+IPOs,2004-11,23
+IPOs,2004-12,37
+IPOs,2005-01,16
+IPOs,2005-02,31
+IPOs,2005-03,13
+IPOs,2005-04,16
+IPOs,2005-05,18
+IPOs,2005-06,7
+IPOs,2005-07,33
+IPOs,2005-08,39
+IPOs,2005-09,20
+IPOs,2005-10,21
+IPOs,2005-11,25
+IPOs,2005-12,28
+IPOs,2006-01,18
+IPOs,2006-02,36
+IPOs,2006-03,17
+IPOs,2006-04,19
+IPOs,2006-05,17
+IPOs,2006-06,29
+IPOs,2006-07,18
+IPOs,2006-08,15
+IPOs,2006-09,20
+IPOs,2006-10,27
+IPOs,2006-11,42
+IPOs,2006-12,35
+IPOs,2007-01,13
+IPOs,2007-02,29
+IPOs,2007-03,24
+IPOs,2007-04,22
+IPOs,2007-05,41
+IPOs,2007-06,34
+IPOs,2007-07,38
+IPOs,2007-08,23
+IPOs,2007-09,7
+IPOs,2007-10,35
+IPOs,2007-11,42
+IPOs,2007-12,23
+IPOs,2008-01,17
+IPOs,2008-02,13
+IPOs,2008-03,7
+IPOs,2008-04,3
+IPOs,2008-05,17
+IPOs,2008-06,7
+IPOs,2008-07,8
+IPOs,2008-08,13
+IPOs,2008-09,7
+IPOs,2008-10,6
+IPOs,2008-11,6
+IPOs,2008-12,6
+IPOs,2009-01,7
+IPOs,2009-02,9
+IPOs,2009-03,26
+IPOs,2009-04,10
+IPOs,2009-05,16
+IPOs,2009-06,16
+IPOs,2009-07,25
+IPOs,2009-08,21
+IPOs,2009-09,20
+IPOs,2009-10,32
+IPOs,2009-11,18
+IPOs,2009-12,17
+IPOs,2010-01,14
+IPOs,2010-02,12
+IPOs,2010-03,18
+IPOs,2010-04,30
+IPOs,2010-05,12
+IPOs,2010-06,20
+IPOs,2010-07,33
+IPOs,2010-08,14
+IPOs,2010-09,11
+IPOs,2010-10,25
+IPOs,2010-11,35
+IPOs,2010-12,28
+IPOs,2011-01,23
+IPOs,2011-02,26
+IPOs,2011-03,10
+IPOs,2011-04,30
+IPOs,2011-05,30
+IPOs,2011-06,19
+IPOs,2011-07,19
+IPOs,2011-08,7
+IPOs,2011-09,6
+IPOs,2011-10,11
+IPOs,2011-11,18
+IPOs,2011-12,23
+IPOs,2012-01,8
+IPOs,2012-02,31
+IPOs,2012-03,27
+IPOs,2012-04,21
+IPOs,2012-05,19
+IPOs,2012-06,24
+IPOs,2012-07,17
+IPOs,2012-08,11
+IPOs,2012-09,13
+IPOs,2012-10,26
+IPOs,2012-11,14
+IPOs,2012-12,6
+IPOs,2013-01,21
+IPOs,2013-02,14
+IPOs,2013-03,15
+IPOs,2013-04,25
+IPOs,2013-05,29
+IPOs,2013-06,37
+IPOs,2013-07,23
+IPOs,2013-08,25
+IPOs,2013-09,30
+IPOs,2013-10,40
+IPOs,2013-11,43
+IPOs,2013-12,20
+IPOs,2014-01,32
+IPOs,2014-02,28
+IPOs,2014-03,31
+IPOs,2014-04,45
+IPOs,2014-05,32
+IPOs,2014-06,25
+IPOs,2014-07,43
+IPOs,2014-08,18
+IPOs,2014-09,29
+IPOs,2014-10,20
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
